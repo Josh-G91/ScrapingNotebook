@@ -1,0 +1,2043 @@
+anti-pax6  ad2.35 monoclonal antibody
+anti-human igf-1 receptor igf-1r 4-52 monoclonal antibody
+anti-c-met 8
+anti-cd21l r4/23
+anti-urothelium lbs15
+anti-integrin avb6 avb6 53a.2
+anti-myofibroblast marker pr 2d3
+anti-porcine thermal-stable blood protein tsbp 90 kda 19c5e10 monoclonal antibody
+anti-scl 1e6
+anti-d10 tcr clonotypic 3d3 monoclonal antibody
+anti-cd73 ah15-f2-5
+anti-cancer inhibitor of protein phosphotase 2a 2g10-3b5 monoclonal antibody
+anti-cd8b v45p5c6*g8
+anti-sirp beta allele 2 human ox137 monoclonal antibody
+anti-phospho-hsp70 ggs2.1 monoclonal antibody
+anti-human igf-1 receptor igf-1r 24-51 monoclonal antibody
+anti-nesprin-2 6c11
+anti-hif2a ep190b
+anti-muc1 c595 ncrc48
+anti-ns5b 1a4
+anti-hur 4c8 chip grade
+anti-mouse anti-tap63 tap63-5.1 monoclonal antibody
+anti-cd45rb pd7/26
+anti-homogalacturonan  lm7 monoclonal antibody
+anti-glur2,4 3a11
+anti-striated muscle myosin heavy chains sm1 and sm2 83b6
+anti-cd2 x53 x/3
+anti-pkca mc5
+anti-immunoglobulin g sig375
+anti-cytochrome p450 1b1 v96
+anti-estrogen receptor ß2 57/3
+anti-non-phospho cdc25 dg6
+anti-palb2 m41-p3f3
+anti-deleted in azoospermia-like dazl3/11a
+anti-mam-3  hmfgm 67d11 monoclonal antibody
+anti-clec16a 7e10 monoclonal antibody
+anti-wfdc5-wap m47-p2d5
+anti-rip140 6d7
+anti-myelin basic protein region 36-50 mbp14
+anti-cytokeratin hep 111
+anti-psma 3f11 mouse monoclonal antibody
+anti-acetyl smc3 dp4.1
+anti-tnc-c 2d3.1 monoclonal antibody
+anti-feruloylated polymers  lm12 monoclonal antibody
+anti-p6 protein h. influenzae 7f3
+anti-791t cells ncrc27
+anti-tumor necrosis factor tnf-α 12f6
+anti-polycystin-1 human 7.00e+12 monoclonal antibody
+anti-interferon st126
+anti-neutrophil monoclonal  ox106 monoclonal antibody
+anti-alpha dystroglycan iih6 
+anti-cd55 bu14
+anti-integrin avb3 23c6
+anti-fibrinogen-like protein 1 177 m01 monoclonal antibody
+anti-cd90 t11d7e2
+anti-phospho endosulfine df1.1
+anti-w6/1 w6/1 monoclonal antibody
+anti-integrin beta 3a gpiiia, cd61  mbc 322.4 monoclonal antibody
+anti-mhc ii bu26
+anti-dna m165-14 monoclonal antibody
+anti-n6-methyladenosine m6a 17-3-4-1
+anti-rptp  3d7 monoclonal antibody
+anti-γ-ecs 11h7.c1.a2
+anti-saa5 a10  p4f7*c9 monoclonal antibody
+anti-igm v53p3h2*b2
+anti-apc5 apc5#4
+anti-melanoma associated antigen 100  gp100 beteb monoclonal antibody
+anti-syndecan 4 v60p2c2*f2
+anti-ha h1n1 lm41 monoclonal antibody
+anti-mucin cam 17.1
+anti-band iii q1/156
+anti-follistatin 288 17-2
+anti-fibrin uc45
+anti-fcgr2 2zc115
+anti-thy-1 yts 154.7.7.10
+anti-testosterone 3t16
+anti-f. tularensis lvs 50s ribosomal protein l7/l12 rp1l 109 antibody
+anti-protein kinase c α 133
+anti-cd11a bu17
+anti-ccr5 ccr5 monoclonal antibody
+anti-dna m111-c2 monoclonal antibody
+anti-integrin a4 7.2
+anti-dna m202-p38 monoclonal antibody
+anti-mtbp 2c1e11
+anti-aha1 aha1-2.1 monoclonal antibody
+anti-cytochrome p450 3c1 v12p6f5*e3
+anti-ruva ruva 12c6
+anti-cyclinb2 x29.2
+anti-lypd3 11f1
+anti-cd19 pdr134
+anti-lactoferrin  67d9 monoclonal antibody
+anti-bordotella avium 41-kda surface protein 14g8 monoclonal antibody
+anti-dna m185-c1 monoclonal antibody
+anti-arf1 arfs 3f1
+anti-cd18 bu86
+anti-dna m202-61 monoclonal antibody
+anti-gtp 3a5 recombinant antibody
+anti-hsvul42 13c9
+anti-growth differentiation factor 9b 28a
+anti-integrin ax bu15
+anti-lewisx bu60
+anti-xylan  lm10 monoclonal antibody
+anti-claudin 16 4c10
+anti-mcm5 a2.10a12.a2.b11.a10
+anti-plx az27
+anti-sbsn z47p1e7*f5
+anti-h5 2c6-1h10 monoclonal antibody
+anti-nmdar2a a3-2d10
+anti-cdkn2a/p14arf arf 4c6/4
+anti-cd63  lamp3 monoclonal antibody
+anti-human blood group b antigen o10 antibody
+anti-actin1 mab45a
+anti-siglec5 1a5
+anti-golgi bodies gm130 4a3
+anti-melanoma lhm3
+anti-dna m111-c1 monoclonal antibody
+anti-keratin18 ldk18
+anti-bone marrow cell  gepi monoclonal antibody
+anti-β1connexin 2a
+anti-ricin a chain  rac18
+anti-cr1 to5
+anti-clec9a 8f9
+anti-cep164 1f3g10
+anti-pdl2 soluble form z64p2d3*h4
+anti-α1connexin 1a
+anti-muc2 994/152
+anti-o-linked n-acetylglucosamine o-glcnac 11d6.c1
+anti-caspase-8 4-1-20
+anti-cd79a hm47
+anti-iab +ea peptide yae monoclonal antibody
+anti-cd81 2s1 monoclonal antibody
+anti-fn-edb 2b2.2.1 monoclonal antibody
+anti-dna m17-s-c6 monoclonal antibody
+anti-cd48 blast  ox45 monoclonal antibody
+anti-timp1 2a5
+anti-inhibin α po12/8
+anti-tal1 2tl75
+anti-pd-1h mh5a monoclonal antibody
+anti-dna m111-55 monoclonal antibody
+anti-cd62l l-selectin, lecam-1 ox85 monoclonal antibody
+anti-synaptobrevin vamp sp11 monoclonal antibody
+anti-tff1 ps2ge2
+anti-sun1 bbmsun1 x12.11 monoclonal antibody
+anti-bhmt 3e7
+anti-cytochrome p450 26b1 t5p3g2*a3
+anti-metapneumovirus fusion protein hmpv24
+anti ovarian cancer cells a4 monoclonal antibody
+anti-eaac1 35a9
+anti-keratin14 ll001
+anti-cd81 2s141 monoclonal antibody
+anti-mmp1 3b6
+anti-uncarboxylated osteocalcin ucoc fab-2 recombinant antibody
+anti-scl 1c10
+anti mrcka 2a3 monoclonal antibody
+anti-hla-a2 bb7.2
+anti-ifn-γ n2p2d5*a10
+anti-l1cam s10-32
+anti-cytochrome p450 3a7 f19p2h2
+anti-mad1 bb3-8
+anti-human phosphotyrosine py py-22 monoclonal antibody
+anti-o-linked n-acetylglucosamine o-glcnac 2d5.e6
+anti-integrin α-3a  158a3 monoclonal antibody
+anti-avw-3 avw-3 monoclonal antibody
+anti-myosin myh2  a4.1519 monoclonal antibody
+anti-human insulin receptor ir 83-22 monoclonal antibody
+anti-metapneumovirus phosphoprotein hmpv33
+anti-hsa ybm 5.10.4
+anti-flt1 z9p4f3*h10
+anti-ifn-γrel vab4p2b4*e8
+anti-cd21 bu32
+anti-cd160 cnx46-3 monoclonal antibody
+anti-pan-mage a monoclonal antibody clone m3h67
+anti-g2 5d5-4d10 monoclonal antibody
+anti-ox110 ox110 monoclonal antibody
+anti-mycoplasma bovis myb87 monoclonal antibody
+anti-cea 337
+anti-beta amyloid 1-42 12f4
+anti-p53 do-12
+anti-dna m163-c4 monoclonal antibody
+anti-pectic polysaccharides, arabinogalactan 4 ccrc-m91 monoclonal antibody
+anti-tlt-1 4.8 monoclonal antibody
+anti-hrx hrx107
+anti-cd19 4g7
+anti-hdec205
+anti-mycobacterial65-kda hsp pe12
+anti-phospho-cdc20 thr79 bt2.1
+anti-ano5 5f7
+anti-cytochrome p450 3a5 f18p3b6
+anti-cryptococcus crp127
+anti-mcm5 a2.1g2.a7.c12
+anti-alcam azn-l50 igg2a aznl50 monoclonal antibody
+anti-cd-45 c455.1f monoclonal antibody
+anti-immunoglobulin g sig743
+anti-igd ox60 monoclonal antibody
+anti-dmc1 5b10/2
+anti-fviii mbc 301.3 monoclonal antibody
+anti-chikv 3e7b
+anti-thrombospondin receptor smθ
+anti-hiv gp120 5b12
+anti-rab11a sto 2f3
+anti-ireb2 ireb2-46-18-1
+anti-factor vii rff-vii/1
+anti-casein f20.14
+anti-tdp43 db9
+anti-cd3 500.a2 monoclonal antibody
+anti-immunoglobulin t/z v48p1b3*a3
+anti-dna m202-105 monoclonal antibody
+anti-lewis y 69/229
+anti-hsvicp8 11e2
+anti-human insulin receptor ir ct-10 monoclonal antibody
+anti ns1 2h6 monoclonal antibody
+anti-cca 12d3.f2
+anti-hpv16 e1/e4 tvg 403
+anti-p-rax/pact hl1921 monoclonal antibody
+anti-c-met 12.1
+anti-myc tag 5a5 chip grade
+anti-thermal-stable blood protein tsbp 12 kda 19c4c11 monoclonal antibody
+anti-arabinogalactan-protein  lm30 monoclonal antibody
+anti-hsvicp8 10a3
+anti-biotin bk-1/39
+anti-dna m163-72 monoclonal antibody
+anti-icos 4a.3a2 monoclonal antibody
+anti-sos1 tf7-28-37
+anti-hla-b7 bb7.1
+anti-elovl5 z88
+anti-striated muscle troponin i 42/25
+anti-dna m74-c2 monoclonal antibody
+anti-cd81 1s116 monoclonal antibody
+anti-zebrafish gut absorptive cell epitopes fis 4b7/1
+anti-cd20 pdr78
+anti-keratin 7 & 8 lds68
+anti-mycobacterial65-kda hsp rb2
+anti-hairy 1/24
+anti-lonrf2 lonrf261 monoclonal antibody
+anti-mhc class ii beta chain human da6.231 monoclonal antibody
+anti-human insulin receptor substrate-1 irs-1 7-72 monoclonal antibody
+anti-cd6  spvl14 monoclonal antibody
+anti-ceacam5/6/8 cd66e/c/b 4h6-20 monoclonal antibody
+anti-integrin α-3a  29a3 monoclonal antibody
+anti-zebrafish basolateral pole of cells fis 2h9/1
+anti-keratin1 ha1 lhtric-1
+anti-cd147  ox47 monoclonal antibody
+anti-pancreatic islet liv3d3
+anti-bordotella avium 41-kda surface protein 1g12 monoclonal antibody
+anti-ceamcam21 3-7g monoclonal antibody
+anti-map2ab igg2b  microtubule associated protein 2ab mt-03
+anti-nkrp1a 3b3
+anti-sos1 tr16-7-3
+anti-oc fab-12 recombinant antibody
+anti-hif1a esee122
+anti-capsular polysaccharide f. tularensis 10e8
+anti-muc3 ncrc74
+anti-phospho-rb thr356 7f10
+anti-ig/bcr  m2b3 monoclonal antibody
+anti-sun1 12.10f
+anti-alkaline phosphatase ap-7/6/7
+anti-asf1 ak96
+anti-cyclinb2 x121.10
+anti-desmoglein 1 32-2b
+anti-porcine thermal-stable blood protein tsbp 90 kda 19c5d12 monoclonal antibody
+anti-zebrafish gut secretory cell epitopes fis 4b7/2
+anti-clec16a 7a4 monoclonal antibody
+anti-cdk2 an4.3
+anti-adrenomedullin hta 171/e8
+anti-cd21 bu80
+anti-actin8 mabgpa
+anti-cmyc jac6
+anti-tcpb f39p7f11
+anti-ero1-like beta m37-p5d11
+anti-cd22  ox97 monoclonal antibody
+anti-fibronectin fn-4
+anti-tao1 tao1 1.1
+anti-glutathione s-transferase subunit yc2 lds 73/lw1 monoclonal antibody
+anti-cyclinb1 v152
+anti-rntre 15-b
+anti-ubiquitin zta10-90-5
+anti-dna m17-s130 monoclonal antibody
+anti-cyclinb1 psa1.1
+anti-mtef-tu
+anti-arabinogalactan-protein  lm14 monoclonal antibody
+anti-pax6  ad1.5 monoclonal antibody
+anti-h5 3e3 monoclonal antibody
+anti-p53 pab 240
+anti-cytokeratin 10  dek10 monoclonal antibody
+anti-ap2b ap2bß 1f3/8
+anti-dystrophin xixc2-d11  monoclonal antibody
+anti-cd22 bu59
+anti-xenopus nk cells 1g5 monoclonal antibody
+anti-cd2  ox55 monoclonal antibody
+anti-ack ack 1f4/9
+anti-fpr1/2 nfpra
+anti-igw v42
+anti-icam3 cg106
+anti-cea 365
+anti-cd19 bu12
+anti-rai if15-e2
+anti-extensin  jim11 monoclonal antibody
+anti-hpv16e6 & hpv18e6 c1p5
+anti-cd48 bcm1 ox78 monoclonal antibody
+anti-cytokeratin pk141
+anti-ox53 ox53 monoclonal antibody
+anti-ox87 ox87 monoclonal antibody
+anti-apoptosis fus/tls autoantibody lhc7.15
+anti-snx27 1c6
+anti-integrin alpha 2b + beta 3 p256
+anti-dna m202-54 monoclonal antibody
+anti-bovine thermal-stable blood protein tbsp 60 kda 6g12g10a9 monoclonal antibody
+anti-xenopus nk cells 4d4 monoclonal antibody
+p27 kip1 sx53g8.5
+anti-cytokeratin k20
+anti-ly-49a ye1/48.10.6 monoclonal antibody
+anti-ifn-γ vab3p2d2*c11
+anti-mbp tcr c508.19g monoclonal antibody
+anti-rsv nucleoprotein 1c3
+anti-cd79a hm57
+anti-w6/32hk w6/32hk monoclonal antibody
+anti-myosin heavy chain  n3.36 monoclonal antibody
+anti-dna m17-s166 monoclonal antibody
+anti-cd45ra bu82
+anti cardiac progenitor cells c1096 monoclonal antibody
+anti-s100a8 7c12/4
+anti bira 9d11c1 monoclonal antibody
+anti-synaptophysin sp3 monoclonal antibody
+anti-human insulin receptor ir 18-42 monoclonal antibody
+anti-bovine thermal-stable blood protein tsbp 40 kda 6e1e5d2b9 monoclonal antibody
+anti-nse nsep1
+anti-factor b-i h human 155kd ox23 monoclonal antibody
+anti-plap h17e2
+anti-phd1 phd112/g7
+anti-neuroblastoma fmg25
+anti-skin skin
+anti-pcna pc8
+anti-ha h5n1 1d10
+anti-phospho pax3 ser205 monoclonal antibody
+anti-cytochrome p450 4a2, 4a3 clo4
+anti-c170 ncrc22
+anti-atrnl1 z40p1e4*e11
+anti-beta3 7d1
+anti-mhc ii bu27
+anti-interferon st254
+anti-cd49e snaka52
+anti-nmyc nmyc-1
+anti-muc1 hmfg1
+anti-erythrocytes  ox83 monoclonal antibody
+anti-porcine thermal-stable blood protein tsbp 60 kda 25e12d9 monoclonal antibody
+anti-cd81 2s66 monoclonal antibody
+anti-mycobacterial30-kda a3c12
+anti-cd43 w3/13 monoclonal antibody
+anti-integrin avb6 7k
+anti-ribophorin-1 cel5c
+anti-mannan  lm21 monoclonal antibody
+anti-hladqw1 genox 3.53
+anti-dna m165-49 monoclonal antibody
+anti-p22phox ns5
+anti-keratin15 lhk15
+anti-egfr 225
+anti-follicular dendritic cell antigen bu10
+anti-lactoferrin b97 monoclonal antibody
+anti-pan-late cornified envelope 3, pan-lce3 7 monoclonal antibody
+anti-serca2 atpase  iih11
+anti-arp6 12b2.g4.e2.c4
+anti-l4 1f9-2g10 monoclonal antibody
+anti-il-4 ox81 monoclonal antibody
+anti-cd44v6 2f10
+anti-ceacam7 p3-7b monoclonal antibody
+anti-talin2 68e7
+anti-clathrin heavy chain sto 3h9
+anti-ap2a ap2a 8g8/5
+anti-vasorin z48p3h8*b5
+anti-fcgr2 kb61
+anti-cytochrome p450 8b1 m15-p3b7
+anti-p53 do-13
+anti-smn2 smn-kh
+anti-orf52 orf52 monoclonal antibody
+anti-cytochrome p450 2w1 v32-p5e5
+anti-integrin alpha 3 f35 177-1
+anti-tao1 tao1 2.2
+anti-chd4 chd4 3f2/4
+anti-melanoma cells  nkim6 monoclonal antibody
+anti-phospho endosulfine cx2.1
+anti-human il-9, clone: mh9a4
+anti-hladra tal 1b5
+anti-rsv phosphoprotein 2h102
+anti-sea louse antigen 4 a68 p5b7*e4 monoclonal antibody
+anti-rasl11a bp6-4
+anti-mmp9 2c3
+anti-uncarboxylated osteocalcin ucoc fab-13 recombinant antibody
+anti-1-5-a-l-arabinan linear  lm13 monoclonal antibody
+anti-ferret immunoglobulin ig gk1-1-4-e3
+anti-cd13 22a5
+anti-scd40 soluble t8p2g4*a6
+anti-ferret immunoglobulin igi gk1-2-8-h9
+anti-transferrin receptor q1/71
+anti-keratin 1 ll017
+anti-cd44v3 3g5
+anti-fmip f6d/11
+anti-cancer inhibitor of protein phosphotase 2a 4a9-1a2 monoclonal antibody
+anti-cd49b 31h4
+anti-cytokeratin 18  dek18 monoclonal antibody
+anti-immunoglobulin g sig482
+anti-cros 7-6g
+anti-map2ab iggm  microtubule associated protein 2ab mt-02
+anti-ia of b,f,p,q,r,s,u,v y3jp monoclonal antibody
+anti-ox59 ox59 monoclonal antibody
+anti-h2k not d & f y3 monoclonal antibody
+anti-xyloglucan  lm15 monoclonal antibody
+anti-blk blk154/d4
+anti-igm z69
+anti-leu2 bu88
+anti-o-linked n-acetylglucosamine o-glcnac 11c6.e5
+anti-zebrafish gut absorptive cell epitopes fis 4e8/1
+anti-arf1 arfs 5f2/2
+anti-bcl2 bcl-2/90
+anti-synaptophysin sp15 monoclonal antibody
+anti-epcam aua1
+anti-α-tubulin c-terminal domain igm tu-04
+anti-mus81 mta30 2g10/3
+anti-cytochrome p450 39a1 m30p6d6
+anti-nnf1 qi-25.1.2
+anti-mycobacterial65-kda hsp nd4
+anti-psma 1a11 mouse monoclonal antibody
+anti-epn3 vi31-6-14
+anti-o-linked n-acetylglucosamine o-glcnac 7b8.f5
+anti-cdk2 c15.2
+anti-mycoplasma hyopneumonia f1b6 monoclonal antibody
+anti-dna m165-54 monoclonal antibody
+anti-mycoplasma hyopneumonia f2g5 monoclonal antibody
+anti-dgkα  m5a monoclonal antibody
+anti-cd227  muc1 140c1 monoclonal antibody
+anti-ceacam1 cd66a f7 monoclonal antibody
+anti-cd3 ε  nkit3a monoclonal antibody
+anti-ptpmu bk2
+anti-ceacam8 cd66b 6/40c monoclonal antibody
+anti-lamin a+c lass2d9
+anti-human insulin receptor ir 25-49 monoclonal antibody
+anti-cmt2 s41-16-14
+anti-bcl2 bcl-2/100
+anti-cd11c cd11c-100/d2
+anti-ferret immunoglobulin igh gk1-2-6-b5
+anti-klf6sv 9a2
+anti-mtbp 2c1g6
+anti-cep290 1c3g10
+anti-cd16 3g8
+anti-talin1 97h6
+anti-rho 1d4 monoclonal antibody
+anti-o-linked n-acetylglucosamine o-glcnac 7a3.g8.f7
+anti-ferret immunoglobulin igi gk1-1-4-d11
+anti-ucp3 a2  p2d5*e8 monoclonal antibody
+anti-cd8 14
+anti-hpv18e6 bf7
+anti-gcp2 igg1 gamma-tubulin complex component 2 gpc2-02
+anti-cdcrei-1 sp20 monoclonal antibody
+anti-mmmrn2  mmmrn2 monoclonal antibody
+anti-ncam eric-1
+anti-hcap-18 h7
+anti-carcinoma associated  175f11 monoclonal antibody
+anti-cd8  spvt8 monoclonal antibody
+anti-muc18 oj79c muc 18
+anti-tnc-c 3f4.1 monoclonal antibody
+anti-hla a, b, c  w6/32 hl monoclonal antibody
+anti-cd11b integrin am icrf44
+anti-ceacam5/6/8 cd66e/c/b ivi4/27 monoclonal antibody
+anti-dicer 4a6
+anti-mcm5 a2.4b4.b7.a11.a8
+anti-cxcr4 cxcr4 monoclonal antibody
+anti-cd119 11f4
+anti-cd20  b20 monoclonal antibody
+anti-cd3 pc3/188a
+anti-cdc20 ar12.4
+anti-myelin basic protein mbp40
+anti-o-linked n-acetylglucosamine o-glcnac 14d9.d4
+anti-erbb2 icr52
+anti-von willebrand factor f8/86
+anti-rad51 rad51 3c10
+anti-gnrh hu11b monoclonal antibody
+anti-moap-1 4a12
+anti-synaptophysin sp4 monoclonal antibody
+anti-o-linked n-acetylglucosamine o-glcnac 1d5.c1
+anti-cmt2 v39-31-10
+anti-human insulin receptor ir 18-34 monoclonal antibody
+anti-basal body marker lhs 28
+anti-hpv16l1 camvir 1
+anti-tnfrsf18r t9p4g4*d7
+anti-alpha-sarcoglycan  ad1/20a6
+anti-vtn2 1a5
+anti-cd71  ox26 monoclonal antibody
+anti-cyclina1 xla1-3
+anti-xylosyl residues  lm23 monoclonal antibody
+anti-sars cov-2-spike 4e-1g monoclonal antibody
+anti-lewisa pr 5c5
+anti-mdm2 smp14
+anti-estrogen receptor ß1 ppg5/10
+anti-vegf-a 4e3
+anti-s. pneumoniaeserotype 14 capsule polysaccharide 5c7
+anti-igm bc
+anti-ath 4a6
+anti-pylt pymt
+anti-growth differentiation factor 9 72b
+anti-dna m163-42 monoclonal antibody
+anti-oct-2 pt2
+anti-lps f. tularensis 1f7
+anti-cml28 v80p1c10*c
+anti-cd49b 16b4
+anti-ptp-pest ag10
+anti-involucrin sy5
+anti-hladr cr3/43
+anti-tom34 tom34-2.1 monoclonal antibody
+anti-dna m17-s83 monoclonal antibody
+anti-clec2 17d9
+anti-integrin a4 bu49
+anti-cd53  ox80 monoclonal antibody
+anti-keratin7 lp5k
+anti-snail1 20c8
+anti-o-linked n-acetylglucosamine o-glcnac 6b5.a8
+anti-gcp2 igg1  gamma-tubulin complex component 2 gcp2-03
+anti-rt1bac mhc class ii polymorphic ox76 monoclonal antibody
+anti-o-linked n-acetylglucosamine o-glcnac 3c1.e8
+anti-ucp3 a2  p2d5*a3 monoclonal antibody
+anti-hpv16e2 el58
+anti-mbp bbmbp23.42 monoclonal antibody
+anti-cd22   ox96 monoclonal antibody
+anti-delta np73 delta np73-3.1 monoclonal antibody
+anti-cytochrome p450 4a11 m25-p2a10
+anti-ap2 a&b a6/2/2
+anti-cpep1 h1-c6 monoclonal antibody
+anti-leu1 h65
+anti-uncarboxylated osteocalcin ucoc fab-16 recombinant antibody
+anti-xpf 4h4
+anti-germinal centre macrophages bu83
+anti-usp3 ae9-12-1
+anti-cyclina e70.1
+anti-orf45 8b8 monoclonal antibody
+anti-hhv-8 lna-1 ln53
+anti-rad17 rad17 1c6/2
+anti-kidins220 p220 1f8/3
+anti-ox74 ox74 monoclonal antibody
+anti-tyrosine hydroxylase av1
+anti-cd71  transferrin receptor  66ig10 monoclonal antibody
+anti-integrin beta 3a gpiiia, cd61  mbc 319.4
+anti-actin11 m1  mab2345a
+anti-ace somatic isoform-2 l10p4f3*f9
+anti-dna m111-33 monoclonal antibody
+anti-lonp1 lon20/h1
+anti-terf1 bed5-57-6
+anti-6x histidine tag  ad1.1.10 monoclonal antibody
+anti-egfr icr11
+anti-apc7 br21-45-7-6
+anti-5-hydroxymethylcytosine 5hmc ab3/63.3
+anti-atmin atmin 11f4
+anti-igt n5p2d2*b4
+anti-orf33 orf33 monoclonal antibody
+anti-syntaxin sp6 monoclonal antibody
+anti-cd81 2s84 monoclonal antibody
+anti-raet1e raet1e 119/6
+anti-apc4 civ1.1
+anti-cd55 bu84
+anti-vwfactor agii mbc 239.2 monoclonal antibody
+anti-cd39  entpd1 r22 monoclonal antibody
+anti-p63 bu5
+anti-human stress protein 53 sep53-1 monoclonal antibody
+anti-eag antibody from x63 fused cd19 b cell hybridoma f8
+anti-clostridium perfringens type d episilon 4d6 monoclonal antibody
+anti-tp53tg5 z38p1e4*c7
+anti-lactase mlac1
+anti-pylt pyc
+anti-lat1 bu53
+anti-hla dp alpha tal3c3
+anti-blood group b antigen igg m18 monoclonal antibody
+anti-lrp 8b8
+anti-fcgr3 dj130c
+anti-vbeta3 t cell receptor tcr jovi.3
+anti-hladr ß chain 1 da2
+anti-pfalciparum aldolase 2b4. 5c9 monoclonal antibody
+anti-sucrase-isomaltase mglu1
+anti-dram2 vab24-p1c8*a3
+anti-vsv-g 1e9f9
+anti-cd3 uch-t1®
+anti-1,4-dihydropyridine receptor iiid5 monoclonal antibody
+anti-keratin 5/6/18 lp34
+anti-nab2p 3f2 monoclonal antibody
+anti-mbp r3.2
+anti-ceacam1 cd66a 11-1h monoclonal antibody
+anti-barx2 bar x2 8a7/1
+il-17f mm17f8.f5
+anti-cd86 bu63
+anti-phospho-rb ser608 51b7
+anti-porcine rotavirus vp6, serogroup b 10b1 monoclonal antibody
+anti-cytokeratin pk110
+anti-ox115 ox115 monoclonal antibody
+anti-clec2 ayp2
+anti-apc ali 12-28
+anti-cyclinb1 v92.1
+anti-ptprc bu64
+anti-nsl1 ql24-1
+anti-cros 7-1b
+anti-ignar v39
+anti-cd14 uch-m1
+anti-bop1 t7-p1b7*a8
+anti-calgranulin b  cf-557 monoclonal antibody
+anti-dgkα m6 monoclonal antibody
+anti-cd22  3h4 monoclonal antibody
+anti-ox58 ox58 monoclonal antibody
+anti-hsv gd ap12
+anti-cd90 t11d7
+anti-l4 1a5-1a3 monoclonal antibody
+anti-golgin-97 cdf4 monoclonal antibody
+anti-cmt2 i3-4-14
+anti-elovl fatty acid elongase 7 z26
+anti-hdac6-znf 178 mouse monoclonal antibody znf domain-specific
+anti-cd11a  integrin subunit alpha l  spvl15 monoclonal antibody
+anti-factor viii:c heavy chain rff-viii:c/10
+anti-cd81 2s20 monoclonal antibody
+anti-ebv latent membrane protein 1 cs 1-4
+anti-dna m165-52 monoclonal antibody
+anti-hdac6-d1 2h3 mouse monoclonal antibody d1 domain-specific
+anti-mib 6b2
+anti-vwfactor agii pp mbc 242.5 monoclonal antibody
+anti-lewisx bu28
+anti-fn-edb 4a10.1 monoclonal antibody
+anti-pub1 4c3 monoclonal antibody
+anti-fcer2 bu38
+anti-rad53 el7-e1
+anti-o-linked n-acetylglucosamine o-glcnac 13f10.g6
+anti-cd4 domain 2  ox35 monoclonal antibody
+anti-chikv 11e7
+anti-tnfrsf18 soluble form t10p2h9*b9
+anti-scp3 cor 10g11/7
+anti-integrin beta 3a gpiiia, cd61   ap-5
+anti-fpr1 nfprb
+anti-p53 pab do-1
+anti-epithelial lh39
+anti-igg1-4 puma16 monoclonal antibody
+anti-integrin alpha v p2w7
+anti-integrin α-3b/6b  pb36 monoclonal antibody
+anti-l1cam rt9-20
+anti-gpib cd42 mbc 142.1 monoclonal antibody
+anti-ada ada-1
+anti-arp8 13f10.a4.g7
+anti-fl1 fl.1 monoclonal antibody
+anti-sirp gamma ox116 monoclonal antibody
+anti-myosin myh1/2/3/4/6/7/8 a4.1025 monoclonal antibody
+anti-xpa 2a4
+anti-foxp2 73a/8
+anti-dna m17-s145 monoclonal antibody
+anti-slow skeletal muscle myosin heavy chain sm1 m14
+anti-human insulin receptor ir 18-40 monoclonal antibody
+anti-cd9 bu16
+anti-cd3-associated tcr wt31 monoclonal antibody
+anti-rad54 rad54 4e3/1
+anti-5t4 b5c12
+anti-fgf1 v8p1g5*f2
+anti-atrx 23c
+anti-homogalacturonan  jim7 monoclonal antibody
+anti-pfalciparum aldolase pv 4.6b10 monoclonal antibody
+anti-mos s3.1
+anti-sla2 z30p1f12*f4
+anti-cd45r yth 80.103
+anti-icam3 bu65
+anti-acetyl alpha tubulin 6-11b-1
+anti-orf62 orf62 monoclonal antibody
+anti-snap-25 sp14 monoclonal antibody
+anti-na/k atpase alpha 3 xvif9-g10
+anti-cd11b 2lpm19c
+anti-prd16 ab7-9
+anti-ifn-γ v91p1h8*d10
+anti-rsv f glycoprotein 11-3-a3
+anti-fance l5-p1e6*g5
+anti-dna m17-s128 monoclonal antibody
+anti-lactase mlac9
+anti-cd45ra bu77
+anti-rabx5 g32-11
+anti-entpd1 ac2
+anti-igt z55f8*c3
+anti-egfr icr10
+anti-tal1 2tl242
+anti-cmyc 9e11
+anti-orf7a 3c9
+anti-psma5 ah1.1
+anti-cd90 thy-1.1  ox7 monoclonal antibody
+anti-gw182 4b6 monoclonal antibody
+anti-ox43 endothelium  ox43 monoclonal antibody
+anti-fcλriv 9e9
+anti-profilin 1 prf1 mabprf12a
+anti-sctla4 l4p2f5*f10
+anti-mycobacterial30-kda 5f9
+anti-pasd1 2alcc128
+htra3 monoclonal antibody clone 3e6
+anti-dna m163-c1 monoclonal antibody
+anti-porcine thermal-stable blood protein tsbp 90 kda 16f9c11 monoclonal antibody
+anti-rilp bbrilp36.1 monoclonal antibody
+anti-cd73 aa60-e3-3
+anti-cd68 y1/82a
+anti-dhomer 2f7
+anti-syntaxin sp7 monoclonal antibody
+anti-extensin  lm1 monoclonal antibody
+anti-α-glucosidase  43g7 monoclonal antibody
+anti-arabinogalactan-protein  lm2 monoclonal antibody
+anti-cytochrome p450 1b1 5e2
+anti-trf1 3h11
+anti-cd11c integrin ax 3.9
+anti-ox14 ox14 monoclonal antibody
+anti-mtss1 m7p3a7
+anti-cros 7-2b
+anti-grass xylan preparations lm27 monoclonal antibody
+anti-ps114-brca1 3c10g8 monoclonal antibody
+anti-zebrafish gut secretory cell epitopes fis 2f11/2
+anti-annexinii anex 3d5/4
+anti-m1 1g1a12
+anti-proinsulin 3c11.f1 monoclonal antibody
+anti-clec16a 4h2 monoclonal antibody
+anti-hnrnp-k isoform1 n10 p2d3*g2
+anti-hpv16 e1/e4 tvg 402
+anti-o-glcnac ctd110.6 antibody
+anti-sgt 6a4
+anti-cd195 hek/1/85a/7a
+anti-rap 7f1
+anti-attractin z45p2f7*a8
+anti-rptp  2c10 monoclonal antibody
+anti-cat cat-1
+anti-integrin α-6b  6b4 monoclonal antibody
+anti-cytochrome p450 2a6, 2a7, 2a13 f16 p2 d8
+anti-tcp1a 91a cta-191
+anti-cd86  ox48 monoclonal antibody
+anti-mmp2 4d3
+anti-human insulin receptor ir 47-46 monoclonal antibody
+anti-inhibin α po23/32
+anti-cdcrei-1 sp19 monoclonal antibody
+anti-cd23  5e3 monoclonal antibody
+anti-cd200 ox2 ox104 monoclonal antibody
+anti-glur2 6c4
+anti-siglec3 cd33 3d6
+anti-lamin b receptor bb2ss3f3
+anti-hladq3, dq4 & dr4 tal 12.1
+anti-hud/huc/hub 8b3  rip/chip grade
+anti-cytochrome p450 46a1 n8-p6e4*h8
+anti-rabbit ig mr12
+anti-ema e29
+anti-hla-drb1 dj9
+anti-p53 pab 246
+anti-ing1 cab 1
+anti-golgi bodies gm130 nn 2c10/1
+cytotoxic monoclonal antibody a1 against human pluripotent stem cells
+anti-sgii sgii 9g3/3
+anti-integrin α-6a  1a10 monoclonal antibody
+anti-keratin 10 lhp1
+anti-bf-1 3c6
+anti-cytochrome p450 2c6 k1
+anti-plx az24
+anti-cytochrome p450 2e1 m12p4h2
+anti-hif1a ha111a
+anti-cd227  muc1 139h2 monoclonal antibody
+anti-fibrinogen-like protein 1 177r1 monoclonal antibody
+anti-c-nap1/cep250 6f2c8
+anti-cd90 t11d7e
+anti-hip1 1b11 monoclonal antibody
+anti-bag3 v65p1e8*d2
+anti-hla-a,b,c w6/32 monoclonal antibody
+anti-50k glycoprotein ivd3 monoclonal antibody
+anti-rhesusd-vi lor-15c9 monoclonal antibody
+anti-processed arabinan /rg-i  lm16 monoclonal antibody
+anti-il12 1-1a4
+anti-cd200  ox2 monoclonal antibody
+anti-muc5b eu-muc5bb
+anti-mcm5 a2.9b4.b12.d8.b8
+anti-ly-49a ye1/32.8.5 monoclonal antibody
+anti-xyloglucan lm25 monoclonal antibody
+anti-ifn-γ1 n3-p3a5*a10
+anti-cadherin 11 16a monoclonal antibody
+anti-dna ligase 1 7a12
+anti-fbw7 fbox 3a9/1
+anti-f1 deficientyersinia  pestis6b5
+anti-fsba fsba 2f5/5
+anti-cd11a  integrin subunit alpha l  nkil16 monoclonal antibody
+anti-cr1 e11
+anti-ag85b 4a4 monoclonal antibody
+anti-1,4-dihydropyridine receptor iic12 monoclonal antibody
+anti-ferret immunoglobulin igh gk1-1-6-b7
+anti-ha tag 16.43
+anti-aspergillus fumigatus5d4
+anti-lsp1 tpd153
+anti-gfap fd19-9
+anti-gst if13.1 monoclonal antibody
+anti-mcm5 a2.2c11.h7.a11.a8
+anti-cd4 v46p5b10*d5
+anti-cd45ro uch-l1
+anti-slow skeletal muscle c protein 83b24
+anti-collagen type vii lh7.2
+anti-involucrin sy8
+anti-tnc-c 4h7.1 monoclonal antibody
+anti- mhc class i  hca2 monoclonal antibody
+anti-npc1 17b5
+anti-phospho tyrosine hydroxylase ser40 av4
+anti-cd11a bu85
+anti-beta amyloid 1-40 11a50-b-10
+anti-integrin beta 3a gpiiia, cd61  mbc 322.8
+anti-dna m17-p73 monoclonal antibody
+anti-vsv-m 23h12
+anti-erbb2 icr12
+anti-vwfactor agii mbc 242.6 monoclonal antibody
+anti-ifn-γ1 v2p3c12*g9
+anti-galβ1-4glcnac epitope 6b4
+anti-vwfactor agii mbc 242.4 monoclonal antibody
+anti-dna m17-s-c1 monoclonal antibody
+htra3 monoclonal antibody clone 10h10
+anti-p53 pab 1801
+anti-neurofilament h igg1 neurofilament heavy polypeptide nf-04
+anti-mmp3 1b4
+anti-α-tgcenh3 tgcenpa cenpa monoclonal antibody
+anti-keratin5 & 14 lh8
+anti-human stress protein 53 sep53-4 monoclonal antibody
+anti-clec2 ayp1
+anti-ctbp1 cg14 antibody
+anti-mhc ii bu21
+anti-xpg 8h7/xpg
+anti-leu1 uch-t2
+anti-dna m165-3m monoclonal antibody
+anti-mac-ceacam1 7d-2/12 monoclonal antibody
+anti-dna m17-p101 monoclonal antibody
+anti-dlg1 b7-1
+anti-apc11 crq1.1
+anti-cide a v62p1e3*b10
+anti-centrobin 6d4f4
+anti-proliferation marker jc1
+anti-glycoprotein 2b gpiib  mbc 370.2
+anti-hud/huc/hel-n1, recombinant humanized 232
+anti-human neuropilin-1 b1b2 clone 7e8; mab3 monoclonal antibody
+anti-ahi-1 monoclonal antibody
+anti-von willebrand factor rff-viii:r/2
+anti-hladr3, 6, 11, drj25 tal 8.1
+anti-porcine thermal-stable blood protein tsbp 60 kda 23f7e5 monoclonal antibody
+anti-mcm5 a2.12a7.c10.d9.d10
+anti-hemilin2 hemil2 monoclonal antibody
+anti-pdgfr alpha pdgfr-h7a
+anti-p53 pab 1103
+anti-hladrcd74 by2
+anti-cd81 1s337 monoclonal antibody
+anti-tk15 epitope tag tk 15
+anti-pip2 pip2 2c11
+anti-dna m17-ps-c7 monoclonal antibody
+anti-mycoplasma bovis mb57 monoclonal antibody
+anti-cytochrome p450 20a1 z27-p3h7*e3
+anti-syntaxin fp20 monoclonal antibody
+anti-cytochrome p450 1a1, 1a2 mc1
+anti-fibrinogen-like protein 1 177r4 monoclonal antibody
+anti-hla-b yth 76.3
+anti-f. tularensis lvs bacterioferritin bfr 163 antibody
+anti-igw v43
+anti-keratin lds103
+anti-human igf-1 receptor igf-1r 16-13 monoclonal antibody
+anti-syndecan 1 v92-p3d9*e7
+anti-cytokeratin pk63
+anti-agp  jim13 monoclonal antibody
+anti-dram1 m3-p4b4
+anti-ptp-pest ag25
+anti-synaptophysin sp17 monoclonal antibody
+anti-ubiquitin zta10-90-6
+anti-rab11a sto 7c10
+anti-cd81 2s136 monoclonal antibody
+anti-fancm cv5.1
+anti-pectic polysaccharide, arabinogalactan 4 ccrc-m92 monoclonal antibody
+anti-keratin10 lh2
+anti-cdx1 123a
+anti-ipnv cc3-vp3
+anti-lamin a+c wl4g10
+anti-cytochrome p450 4a1, 2c11 clo1
+anti-baip2 ca-a10-5
+anti-pxr v11p4g11*e7
+anti-cyclina1 xla1-1
+anti-asic1a asic1a monoclonal antibody
+anti-norepinephrine transporter av2
+anti-ing1 cabs 2-9
+anti-s100a9 6g4
+anti-hud/huc/hub 16a11
+anti-il12 1-1d5
+anti-rtl1 13c11 monoclonal antibody
+anti-y hapten c14 ncrc55
+anti-neonatal myosin  n1.551 monoclonal antibody
+anti-tenascin  t2h5 monoclonal antibody
+anti-muc7 eu-muc7
+anti-pvy potato virus y 11b2 monoclonal antibody
+anti-cd81 1s94 monoclonal antibody
+anti-cd45ra  ox33 monoclonal antibody
+anti-ox57 ox57 monoclonal antibody
+anti-tom34 tom34-3.1 monoclonal antibody
+anti-xylan / arabinoxylan  lm11 monoclonal antibody
+anti-dna m202-17 monoclonal antibody
+anti-fgf3 msd1
+anti-hrp p6/38/20
+anti-heat stable antigen 20c9 monoclonal antibody
+anti-factor viii rff-viii:c/8
+anti-c-kit cd117 2c11
+anti-vldl 5f3
+anti-omentin 3g1b3
+anti-vtg1 aq7-20-6
+anti-cd81 2s4 monoclonal antibody
+anti-proinsulin 4e11.a2.c3 monoclonal antibody
+anti-rsv nucleoprotein vp41 4-18
+anti-orf38 orf38 monoclonal antibody
+anti-integrin beta 3a gpiiia, cd61  ap-3
+anti-synaptobrevin vamp sp10 monoclonal antibody
+anti-tigar m2-p4h2
+anti-tnc-c 3f10.1 monoclonal antibody
+anti-p53 pab242
+anti-cd200 ox2 ox90 monoclonal antibody
+anti-thyroglobulin  2h11 monoclonal antibody
+anti-g2 5d5-1g4 monoclonal antibody
+anti-c3 wm1
+anti-pla2r 12-6-5
+anti-follicular dendritic cells bu58
+anti-d10 tcr c193.5a monoclonal antibody
+anti-ero1-like alpha v23p3c9*h2
+anti-sdcbp k10p3d5*h3
+anti-cd81 1s262 monoclonal antibody
+anti-nesprin-1 9f10
+anti-zika ns1 protein monoclonal antibody
+anti-alpha dystroglycan via41
+anti-miniiaa7 degron core sequence aa7 monoclonal antibody
+anti-hladq3 2hb6
+anti-cd81 1s42 monoclonal antibody
+anti-igd v88p3f7*d2
+anti-cd4 v1 domain qs4120
+anti-fih fih162c
+anti-xpf xpf 3f2/3
+anti-adrenomedullin hta 91a/g2
+anti-f. tularensis lvs lipopolysaccharide lps 12 antibody
+anti-pax6  ad2.38 monoclonal antibody
+anti-cyclina e23.1
+anti-mcm5 a2.2c9.c9.c11
+anti-lps hafnia alvei pcm 1186 ha1186 monoclonal antibody
+anti-crp/sap-1a  a13  p1b11*g7 monoclonal antibody
+anti-baip2 ca-a10-2
+anti-cd4 domain 1  ox38 monoclonal antibody
+anti-p53 pab do-7
+anti-human ataxin-3  4b8 monoclonal antibody
+anti-stip1 hop-4.1 monoclonal antibody
+anti-ruvb ruvb 4g5/1
+anti-ceacam20 1-11a monoclonal antibody
+anti-s100 s1-61
+anti-igm r1/69
+anti-nkrp1d 2d9
+anti-cd55 bu97
+anti-igd  h6/31hl monoclonal antibody
+anti-pax6  ad2.3 monoclonal antibody
+anti-homogalacturonan  jim5 monoclonal antibody
+anti-dna m17-s-c3 monoclonal antibody
+anti-gal4  rk5c1 monoclonal antibody
+anti-integrin alpha-3b ad18-1-10
+anti-cytochrome p450 4f11 f21 p6 f5
+anti-muc2 996/1
+anti- mhc class i  hc10 monoclonal antibody
+anti-hemoglobin monomer 14 kda 24c12e7 monoclonal antibody
+anti-o-linked n-acetylglucosamine o-glcnac 1d3.d6
+anti-aha1 aha1-1.1 monoclonal antibody
+anti-rna polii ctd 4h8
+anti-o-linked n-acetylglucosamine o-glcnac 16e2.a3
+anti-dna m111-68 monoclonal antibody
+anti-integrin alpha 4b gpiv, cd36  mcb 131.4
+anti-gcsp z44p4c6*f5
+anti-follistatin 288 29/9
+anti-xyloglucan lm24 monoclonal antibody
+anti-asf1 asf 4a1/3
+anti-dna m165-3 monoclonal antibody
+anti-cd53 ox44 monoclonal antibody
+anti-ap2b ap2bß 1g6/2
+anti-vamp5 3e5
+anti-mu a/j pp mbc 349.3 monoclonal antibody
+anti-zebrafish basement membrane marker fis 5f11/2
+anti-cd81 1s346 monoclonal antibody
+anti-mouse dendritic cells 33d1
+anti-irisin vab11  p2c12*c11 monoclonal antibody
+anti-alpha tubulin dm1a
+anti-cd11a  integrin subunit alpha l  spvl1 monoclonal antibody
+anti-bovine thermal-stable blood protein tsbp 10 kda 2b11f3b9 monoclonal antibody
+anti-g2 5d5-1g11 monoclonal antibody
+anti-cytochrome p450 4v2 m29-p3b10
+anti-vegf vg-1
+anti-o-linked n-acetylglucosamine o-glcnac 1e5.h3
+anti-cd33 6c5/2
+anti-cd47  ox101 monoclonal antibody
+anti-infa st29
+anti-dgkα  m5b monoclonal antibody
+anti-human apoe3 apo2.1 monoclonal antibody
+anti-nimp-r14 nimp-r14 monoclonal antibody
+anti-keratin k1 lhk1
+anti-p63 bu7
+anti-myosin myh7  a4.951 monoclonal antibody
+anti-keratin7,13,17 & 18 lds 23
+anti-clec9a 1f6
+anti-epn1 zz3-1
+anti-cd44 h-cam  ox50 monoclonal antibody
+anti-cytochrome p450 1a2 3b8c1
+anti-ps epitope h. influenzae 6e4
+anti ha h5n1 hemagglutinin protein 4f8 monoclonal antibody
+anti-slow skeletal muscle c protein 98/9
+anti-dna m17-s-c5 monoclonal antibody
+anti-phospho pax3 ser201 monoclonal antibody
+anti-lewisx 28
+anti-uncarboxylated osteocalcin ucoc fab-19 recombinant antibody
+anti-icam1 p1w16
+anti-zebraﬁsh brain extracts
+creatine kinase b ck-byk 2e10 monoclonal antibody
+anti-human igf-1 receptor igf-1r 24-58 monoclonal antibody
+anti-nse nsep2
+anti-apcdd1l z35p1f10*c4
+anti-homogalacturonan  lm20 monoclonal antibody
+anti-phospho-hsp90 gdd8.2 monoclonal antibody
+anti-leg1 1g1
+anti-muc5b eu-muc5ba
+anti-human protein kinase c δ 10f11b monoclonal antibody
+anti-gp91phox 54.1
+anti-clec16a 8c1 monoclonal antibody
+anti-cytochrome p450 2a6 rp1.2b4
+anti-dc-sign cd209a
+anti-vsv-n 10g4
+anti-campari-red 4f6 antibody
+anti-urothelium lbs 8
+anti-arp6 12a2.a3.c2
+anti-cd45 mb4b4
+aif 6c4 monoclonal antibody
+anti-lactoferrin  67f12 monoclonal antibody
+anti-muc3 1175
+anti-rap1 rap1 4c8/1
+anti-filamentous phage-m13 g8p 9e7 monoclonal antibody
+anti-hsv gb cb24
+anti-dna m111-185 monoclonal antibody
+anti-vwfactor agii pp  mbc 239.3 monoclonal antibody
+anti-k15 3b5/d7
+anti-a. aeolicus bpl/bioid2 ss 3a5-e2
+anti-cytochrome p450 51a1 n6-p2h5*g8
+anti-integrin a2 has-4
+anti-mage-1 ma454
+anti-f. tularensis lvs fopa 47 antibody
+anti-igd igd26
+anti-cd5 uch-t3
+anti-mmp7 4a3
+anti-raco1 5h10
+anti-cytokeratin k92
+anti-pd-l1 29e.2a3
+anti-icam1 15.2
+anti-l1cam uj127.11
+anti-cd22 to15
+anti-pax-foxo1 paxf monoclonal antibody
+anti-plet1  33a10 monoclonal antibody
+anti-pitpb 4a7
+anti-synaptophysin ep10 monoclonal antibody
+anti-caspase-9 lap 96-2-22
+anti-cd134 ligand ox40 ligand ox89 monoclonal antibody
+anti-rax/pact hl1950 monoclonal antibody
+anti-mcm5 a2.12e7.b12.a8
+anti-cytochrome p450 2b1, 2b2 b/e3
+anti-mucin 3 1143/b7
+anti-ox36 clone 3 ox36 clone 3 monoclonal antibody
+anti-cd81 2s22 monoclonal antibody
+anti-f. tularensis lvs succ 121 antibody
+anti-r2 4e6
+anti-mcm5 a2.7b10.a12.b8
+anti-integrin a2 has-6
+anti-nmda1 54.1
+anti-rsv glycoprotein f 11-2-f3
+anti-cd6.1 blocking mab human ox126 monoclonal antibody
+anti-sars spike 2b3e5
+anti-keratin 7 & 8 lds65
+anti-bara/lin-9 mab#1 monoclonal antibody
+anti-cd79b b29/123
+anti-troponin 1 14 monoclonal antibody
+anti-phospho c-jun thr91, thr93 c-j 4c4/1
+anti-omomyc 21-1-3
+anti-mcm2 crct2.1
+anti-neurones mh01 monoclonal antibody
+anti-plasminogen sbf1 c1.21
+anti-dmc1 1d12/4
+anti-actr2 149/1
+anti-mr1 8g3 monoclonal antibody
+anti-f. tularensis lvs chaperone protein dnak 193 antibody
+anti-cd45  ox1 monoclonal antibody
+anti-p13 aa10.2
+anti-sirp gamma  ox117 monoclonal antibody
+anti-annexini anex 5e4/1
+anti-smc3 dj5.2.3
+anti-keratin 19 las86
+anti-melphalan-modified dna mp5/73
+anti-cd151 11g5a
+anti-fcgr1 10.1
+anti-acetyl smc3 em5.5.2
+anti-smu1 aq26-ed8-22-11
+anti-dppa2 z31p3c4*f11
+anti-fibronectin fn-3
+anti-cd70 bu69
+anti-serca1 atpase ve12-1g9
+anti-rsv subgroup a g glycoprotein 1c2
+anti-cereblon 3b12f7 monoclonal antibody
+anti-von willebrand factor rff-viii:r/1
+anti-pcna pc11
+anti-integrin ax kb90
+anti-hladr bu43
+anti-lactase mlac2
+anti-proinsulin 8e7.b12 monoclonal antibody
+anti-talin2 121a
+anti-spata2l z2p2d5*c8
+anti-bclaf1 m33-p5b11
+anti-ucp1 vab12 p4b12*a12
+anti-mu a/j pp mbc 349.2 monoclonal antibody
+anti-rntre 15-6-11
+anti-αβ-tubulin dimer igm tu-18
+anti-cuzd1 m4p6g6
+anti-hpv16e2 tvg 271
+anti-lilr ghi/75
+anti-goblet cells fis 3g12/3
+anti-urothelium lbs2
+anti-ubiquitin aq1-17-9
+anti-e2f4  rk13 monoclonal antibody
+anti-mhc i bu101
+anti-activin c betac1
+anti-orc1 orc1 7f6/1
+anti-cd81 1s201 monoclonal antibody
+anti-hsp27 acd5
+anti-cd11c n418
+anti-xrcc3 xrcc3 10f1/6
+anti-glycoprotein 2b gpiib  mbc 132.1
+anti-brca1 24 e6
+anti-proinsulin 7h3.a2 monoclonal antibody
+anti-ptprc 2b11
+anti-hladrb tdr 31.1
+anti-hgf/sf sbf5 c1.7
+anti-leu2 x107
+anti-factor i c3b inactivator human ox21 monoclonal antibody
+anti-p47ing3 2a2
+anti-mhcii bu20
+anti-tom34 tom34-1.1 monoclonal antibody
+anti-ipnv ce4-vp2
+anti-cd200 ligand ox102 monoclonal antibody
+anti-klf6 2a2
+anti-mhc class ii alpha chain human da6.147 monoclonal antibody
+anti-lkaaear1 z36p2c1*e7
+anti- pfalciparum aldolase 2b4 6c1 monoclonal antibody
+anti-leu2 uch-t4
+anti-agp  jim8 monoclonal antibody
+anti-calcineurin bf1.1
+anti-beta galactosidase dc1 4c7
+anti-eme1 mta31 7h2/1
+anti-cd81 2s113 monoclonal antibody
+anti-calcineurin be2.1
+anti-cd200 receptor phycoerythrin ox108 monoclonal antibody
+anti-integrin alpha 2b gpiib, cd41  mcb 290.5
+anti-mbp 18.5 kda 3e3h9f8h7 monoclonal antibody
+anti-mycobacterial30-kda 3a8
+anti-keratin19 ba16
+anti-p53 pab do-2
+anti-sv40t pab419
+anti-l4 1a5-1b5 monoclonal antibody
+anti-leu1 cd5/54/f6
+anti-myostatin myo2/1a
+anti-cytochrome p450 27a1 v29-p4b8*b2
+anti-runx3 k12p3f11*c9
+anti-l1cam s10-33
+anti-gst 1e10
+anti-ceacam5 cd66e 3e10-3 monoclonal antibody
+anti-nmdar2b b3-13b11
+anti-dicer 13d6
+anti-b2m yth470.5
+anti-sm y12 monoclonal antibody
+anti-macrophage marker 5/9
+anti-sδ10 1a9
+anti-lamp3 l3p2h10*e3
+anti-cd56  123c3 monoclonal antibody
+anti-wasf2 zz36-12
+anti-adiponectin 32f8
+anti-cadherin 6 2b6-d8 monoclonal antibody
+anti-srp55 9-1-56
+anti-aif 3c11
+anti-ryk f35p7d7f5
+anti-myosin myh2  n2.261 monoclonal antibody
+anti-hla-dr tal 16.1
+anti-mhc ii bu25
+anti-broad leucocyte bu90
+anti-leu2 m236
+anti-cd63 h5c6 monoclonal antibody
+anti-lewisa pr 4d2
+anti-mcm5 a2.5a12.a12.a11
+anti-ap-1 glycoprotein ib mbc-1 monoclonal antibody
+anti-sucrase-isomaltase mglu2
+anti-pcna 5e6/2
+anti-glcb1-4hep epitope 4c4
+anti-hsvul42 2h4
+anti-timp2 3a4
+anti- bovine thermal-stable blood protein tsbp25 kda 1b4b12e12 monoclonal antibody
+anti-cytochrome p450 1a2 d15
+anti-mhc i hlaabc bu8
+anti-cd81 1s5 monoclonal antibody
+anti-dna m163-c2 monoclonal antibody
+anti-dna m165-6 monoclonal antibody
+anti-spectrin rg/26
+anti-ceacam1/3/5/6 cd66a/d/e/c d2-4h monoclonal antibody
+anti-rsv phosphoprotein vp32 3-5-18
+anti-epn3 va45-6-2
+anti-mcm5 a4.6g8.a4.f10
+anti-ercc1 ercc1 3h11
+anti-galnac-t3 uh5 monoclonal antibody
+anti-lactase mlac6
+pc6 monoclonal antibody clone 9h12
+anti-dna m202-9 monoclonal antibody
+anti–bira 5b11c3-3
+anti-hla-c dt-9
+anti-sun1 bbmx15.15 monoclonal antibody
+anti-dna m17-s-c4 monoclonal antibody
+anti-integrin aeb7 bp6
+anti-muc1 c-mu1
+cytotoxic monoclonal antibody 84 against hesc
+anti-ryanodine receptor, skeletal xa7 b6 monoclonal antibody
+anti-w3/15 w3/15 monoclonal antibody
+anti-numa1 ad6-1
+anti-human insulin receptor ir 18-43 monoclonal antibody
+anti-profilin 4 and 5 prf4, prf5 mabprf45a
+anti-hip1r 1c5 monoclonal antibody
+anti-spastin sp 6c6
+anti-rad53 f9-a1
+anti-oct-1 yl15
+anti-hdac6-se 159 mouse monoclonal antibody se domain-specific
+anti-lactoferrin  67d2 monoclonal antibody
+anti-vimentin j144
+anti-mannan  lm22 monoclonal antibody
+anti-mycoplasma bovis myb163 monoclonal antibody
+anti-cmyc pm3e7
+anti-hlad/dr, dq 35
+anti-rsv f glycoprotein 11-2-c9
+anti-glycoprotein 2b gpiib  mbc 314.5
+anti-dna m83-c1 monoclonal antibody
+anti-calgranulin a  cf145 monoclonal antibody
+anti-cd68 y-2/131/47
+anti-piwil3 z83
+anti-dna m202-80 monoclonal antibody
+anti-human igg ivi6a monoclonal antibody
+anti-microglobulin ß2 bbm.1
+anti-blm bfl 103
+anti-f. tularensis lvs sucb 195 antibody
+anti-dna m17-s2 monoclonal antibody
+anti-rsv f glycoprotein 4-15
+anti-vsv-g 8g5f11
+anti-hla class i 2a1
+anti-agp  jim16 monoclonal antibody
+anti-interferon st47
+anti-cytokeratin pk121
+anti-keratin6 ll020
+anti-cytochrome p450 3a1 p6
+anti-cd19 6d5
+anti-cytochrome p450 2b1, 2b2 b/e4
+anti-ly49b 2g4
+anti-cd45 lca  ox30 monoclonal antibody
+anti-cea/nca 198
+anti-o-linked n-acetylglucosamine o-glcnac 7b3.a3
+anti-dscc1 v76p1b2*b12
+anti-δegfr dh8.3
+anti-pkd p14g8
+anti-myelin basic protein region 119-131 mbp2
+anti-pasd1 2alcc136
+anti-cd19 lc-1/32/a10
+anti-s. pneumoniaeserotype 5 capsule polysaccharide 5f6
+anti-agp  jim4 monoclonal antibody
+anti-extensin  jim19 monoclonal antibody
+anti-abi1/e3b1 w8-3
+anti-profilin 1 prf1 mabprf1a
+anti-ucp2 a1p2a9*f5 monoclonal antibody
+anti-egfr f4
+anti-sars cov-2-spike 3-5c-i monoclonal antibody
+anti-mycobacterium bovis11g3
+anti-blood group a mbbm1
+anti-cd11c 118/a5
+anti-cd26  ox61 monoclonal antibody
+anti-p53 do-14
+anti-brca2 b22b6
+anti-cytochrome p450 3a4 f24 p2 b10
+anti-nesprin-2 10h8
+anti-memilin1 memil monoclonal antibody
+anti-subset of t cells bu51
+anti-sarcalumenin xiic4
+anti-poln 1g2/2
+anti-cd8 alpha chain  ox8 monoclonal antibody
+anti-tcp1 23c cta-123
+anti-msapn1  8g1.b1
+anti-a-mmp9 4a3
+anti-sgii sgii 6b1/3
+anti-alpha e2 integrin dendritic cells  ox62 monoclonal antibody
+anti-erbb4 hfr1
+anti-rad51d rad51d 5b3/6
+anti-cd81 1s141 monoclonal antibody
+anti-ly49b 1a1
+anti-eps15 15-3t
+anti-c-kit cd117 1c8
+anti-ox17 ox17 monoclonal antibody
+anti-p53 do-11
+anti-cd81 2s139 monoclonal antibody
+anti-cytochrome p450 2c2, 2b1/2 h7
+anti-bam32 4h9
+anti-tal1 btl73
+anti-spag1 10g1/2
+anti-proinsulin 4h2.a8 monoclonal antibody
+anti-cd21 bu35
+anti-wnk1 m42-p3b10
+anti-cmt2 e29-19-14
+anti-dna m111-67 monoclonal antibody
+anti-mbp tvg mbp 3
+anti-beta amyloid 1-43 9c4
+il-17a mm17f3
+anti-o-linked n-acetylglucosamine o-glcnac 5f6.g4
+anti-alkaline phosphatase ap1b9
+anti-codanin1 cod177
+anti-dgkα  m8 monoclonal antibody
+anti-serca2 atpase 2a7-a1
+anti-ceacam1-dn 3-9f-3g monoclonal antibody
+anti-hif1a hif28b
+anti-moz 127a
+anti-hiv gp41 sar1 monoclonal antibody
+anti-rsv f glycoprotein 11-6-f9
+anti-gtp 2a4 recombinant antibody
+anti-icam3 by44
+anti-α-tubulin n-terminal domain igm tu-03
+anti-tap73 tap73-1.1 monoclonal antibody
+anti-cd22 rfb-4
+anti-wipi2 2a2
+anti-arf1 arfs 1a9/5
+anti-p15paf k11-p1g7*b8
+anti-ptprc hle-12d1
+anti-cd44v3 2c5
+anti-cytochrome p450 1b1 5d3
+anti-cros 4-6g
+anti-cyp450 aromatase h4
+anti-icam1 bu74
+anti-muc1 c789
+anti-wsb1 k5p2h10*e10
+anti-clec9a 397
+anti-il4-4b1 v17p1b4*b12
+anti-tigar 9c10
+anti-human apoe3 apo5.1 monoclonal antibody
+anti-dna m202-s38 monoclonal antibody
+anti-p-glycoprotein uic2 monoclonal antibody
+anti-bcl11a bcl11a/123
+anti-mycobacterium aviumsubsp.paratuberculosis15d10
+anti-a-lactalbumin f20.16
+anti-human icam-3 icam-3, monoclonal 6f10
+anti-cd68 kp1
+anti-cdc13 6f11/2
+anti-avw-15 von willebrand factor mbc 122.6 monoclonal antibody
+anti-mcsp lhm 2
+anti-pecam 1.3  mcb 78.3
+anti-glur3 3b3-a11
+anti-tcr γδ  11f2 monoclonal antibody
+anti-sirp gamma  ox118 monoclonal antibody
+anti-rsv g glycoprotein 133
+anti-lewis y c14
+anti-raet1e raet1e 50/3
+anti-integrin α-3b  54b3 monoclonal antibody
+anti-7.4.c4  7.4.c4  monoclonal antibody
+anti-porcine thermal-stable blood protein tsbp 90 kda 21f11e5 monoclonal antibody
+anti-cd51  victronectin receptor  nkim7 monoclonal antibody
+anti-thy1 athy-1a1
+anti-cd45rc  ox22 monoclonal antibody
+anti-dna m165-60 monoclonal antibody
+anti-cd1c m241
+anti-human stress protein 53 sep53-2 monoclonal antibody
+anti-cyclina at10.2
+anti-pat4 pat4/157/d10
+anti-mos r38.1
+anti-dna m163-47 monoclonal antibody
+anti-muc1 hmfg2
+anti-l1cam uj181.4
+anti-icam3 icam 3.1
+anti-dna m163-c3 monoclonal antibody
+anti-gfp f56-6a1.2.3
+anti-atg9 atg9 14f2 8b1
+anti-mhc class i polymorphic  ox27 monoclonal antibody
+anti-cd134 ox40 ox86 monoclonal antibody
+anti-metapneumovirus nucleoprotein hmpv123
+anti cardiac progenitor cells c19 monoclonal antibody
+anti-jmy hmy117
+anti-dna m165-45 monoclonal antibody
+anti-rb1 rb1 1f8
+anti-p53 v5p4h6*b3
+anti-avw-5 von willebrand factor mbc 121.1 monoclonal antibody
+anti-mam-3  hmfgm 115h10 monoclonal antibody
+anti-ferret immunoglobulin igk gk1-1-4-b10
+anti-cd49e snaka51
+anti-bovine thermal-stable blood protein tsbp 25 kda 6f10a10b8a11 monoclonal antibody
+anti-p6 protein h. influenzae  3b9
+anti-human igf-1 receptor igf-1r 24-30 monoclonal antibody
+anti-cytochrome p450 2j2 z9p1g9*a2
+anti-leu2 c8/144b
+anti-cd104  integrin β4 58xb4 monoclonal antibody
+anti-cd56 nki-nbl-3 monoclonal antibody
+anti-carcinoma associated  175f4 monoclonal antibody
+anti-cytokeratin 2e lhk2e
+anti-cct beta pk/8/4/4i/2f
+anti-tmem2l v98p4e1*b7
+anti-tcp1 84a cta-184
+anti-cd44v4/5 3d2
+anti-syntaxin sp5 monoclonal antibody
+anti-tnf-α 6h4.e1
+anti-nab3p 2f12 monoclonal antibody
+anti-nkrp1a, c, d 16.1
+anti-erbb3 rtj1
+anti-keratin14 ll002
+anti-cyclinb1 v143.1
+anti-lps epitope h. influenzae 12d9
+anti-ceacam3/5 cd66d/e 308/3-3 monoclonal antibody
+anti-hpv18e6 c1n1
+anti-ruvc ruvc 7f1/5
+anti-o-linked n-acetylglucosamine o-glcnac 3g5.a2
+anti-bcrabl 7c6
+anti-lactase mlac8
+anti-pfalciparum histidine rich protein 2 299-2h 3a4 monoclonal antibody
+anti-lewisx tg-1
+anti-myelin basic protein region 82-87 mbp12
+anti-cd73 ci59-b1-3
+anti-cye1 17c8
+anti-zika ns5 protein monoclonal antibody
+anti-cdw75 zb55
+anti-lamin b receptor bb3ss4b5
+anti-lactase mlac3
+anti-cerbb2/her2  3b5 monoclonal antibody
+anti-cd25 pc61 5.3
+anti-igt n4p1g6*f11
+anti-gamma-sarcoglycan 35dag/21b5
+anti-rough er component bu18
+anti-vtn4 10h1
+anti-sirp beta 1 human ox130 monoclonal antibody
+anti-fn-edb 3f6.1 monoclonal antibody
+anti-lrp15a6
+anti-ferret immunoglobulin igh gk1-2-11-e3
+anti-cd18 bu87
+anti-cdc20 ba8
+anti-msapn1 12b8.g2
+anti-his tag 2b6 monoclonal antibody
+anti-cathepsin l 4c11
+anti-cd44 bu93
+anti-integrin alpha 6 mp4f10
+anti-mycobacterium aviumsubsp.paratuberculosis6g11
+anti-cd56  123a8 monoclonal antibody
+anti-cd11a integrin al 38
+anti-gst if12.1 monoclonal antibody
+anti-heterogeneous nuclear ribonucleoprotein m 3/4 1d8 monoclonal antibody
+anti-rheb rheb 3h6
+anti-cd1a  na1/34.hlk monoclonal antibody
+anti-integrin a2 has-3
+anti-cdk1 3e1.1
+anti-cd3 c363.29b monoclonal antibody
+anti-y hapten c14 ncrc56
+anti-trem-like 4 16e5
+anti-cdcrei-1 sp18 monoclonal antibody
+anti-human apoe3 apo3.1 monoclonal antibody
+anti-proinsulin 2e4.c2 monoclonal antibody
+anti-pcna pc5
+anti-hsv gd lp2
+anti-lrp1 8g1
+anti-cea 161 ncrc16
+anti-cd11 & cd18 24
+anti-cd81 2s63 monoclonal antibody
+anti-cd1a  yol1/34 monoclonal antibody
+anti-extensin  jim20 monoclonal antibody
+anti-ox109 ox109 monoclonal antibody
+anti-a18 2d7-4f7 monoclonal antibody
+anti-acot6 z42p1b8*g4
+anti-spastin sp 3g11/1
+anti-cd74 bu45
+anti-cd54 yn1/1.7.4 monoclonal antibody
+anti-hfg 10d-4d monoclonal antibody
+anti-listeria monocytogenes antigen 2 2:13 c5
+anti-cea c365d3ncrc23
+anti-plx az34
+anti-bovine thermal-stable blood protein tsbp 60 kda 7f6c1h11 monoclonal antibody
+anti-glucuronoxylan lm28 monoclonal antibody
+anti-follistatin 315 h10
+anti-dna m165-33 monoclonal antibody
+anti-proinsulin 6g3.f1 monoclonal antibody
+anti-talin1 93e12
+anti-clec16a 4f11 monoclonal antibody
+anti-growth differentiation factor 9 53/1
+anti-ralp ai22-20
+anti-cyclina e67.1
+anti-human insulin receptor ir 83-16 monoclonal antibody
+anti-f-actin nh3
+anti-dna m17-s93m monoclonal antibody
+anti-nsp8 5a10
+anti-rsv f glycoprotein 5a6
+anti-cd200r mouse ox131 monoclonal antibody
+anti-dna m165-27 monoclonal antibody
+anti-ebna2 pe2
+anti-mers n 9h10
+anti-rheb rheb 5d5
+anti-nkrp1f c8
+anti-cd2 lfa-2  ox34 monoclonal antibody
+anti-junctional sarcoplasmic reticulum protein vf1c
+anti-ifn-γ v27p4g9*f10
+anti-cd3 t1p1d4*c6
+anti-eea1 1g11 monoclonal antibody
+anti-ha h5n1 9f4
+anti-erbb3 rtj2
+anti-plap hd 11f7
+anti-xpa 5a2
+anti-mycobacterial30-kda a4g4
+anti-alcohol dehydrogenase 1 ca37 monoclonal antibody
+anti-urothelium lbs17
+anti-snap-25 sp12 monoclonal antibody
+anti-envoplakin crenv-1
+anti-cd227  muc1 175c5 monoclonal antibody
+anti-cr2 21a/5
+anti-cd6 domain 3 human ox125 monoclonal antibody
+anti-integrin alpha 2b gpiib, cd41  mcb 417.3
+anti-delta np73 delta np73-2.1 monoclonal antibody
+anti-metapneumovirus hmpv57
+anti-cytochrome p450 4z1 n7-p2g5*d8
+anti-cd44 bu52
+anti-desmoglein 33-3d
+anti-triadin  iig12
+anti-cytochrome p450 26c1 t6p1c7*e7
+anti-phospho rna polii ser5 ctd 8a7
+anti-proinsulin 11e6.a5 monoclonal antibody
+anti-orc1 tk 1/2
+anti-myosin myh7  a4.840 monoclonal antibody
+anti-ox32 ox32 monoclonal antibody
+anti-cerbb2/her2  9g6 monoclonal antibody
+anti-alcam azn-l51 igg1 aznl51 monoclonal antibody
+anti-mbp r29.6
+anti-il22 l8p2f10*a3
+anti-galnac-t2 uh4 monoclonal antibody
+anti-neurofilament h igg1 neurofilament heavy polypeptide nf-07
+anti-cd56  nkinbl1 monoclonal antibody
+anti-il21 v28p5g1*c4
+anti-sun2 3.1e
+anti-homogalacturonan  lm18 monoclonal antibody
+anti-zika virus envelope protein monoclonal antibody
+anti-bovine/porcine thermal-stable blood protein tsbp 14 kda 13f7b11/13f7c8 monoclonal antibody
+anti-cugbp2/etr-3 1h2-1f12 monoclonal antibody
+anti-oxpl mab-509 monoclonal antibody
+anti-dep1b ch18-2-9
+anti-cyclina e72.1
+anti-lonrf2 lonrf212 monoclonal antibody
+anti-lactase mlac5
+anti-cct alpha 22245a1
+anti-leu1 y2/178
+anti-sv40t pab416
+anti-dj-1 e2-1a monoclonal antibody
+anti-cd43 rat  ox75 monoclonal antibody
+anti-natural killer cell h25
+anti-ercc1 8f1
+anti-dna m163-5 monoclonal antibody
+anti-dna m17-s13 monoclonal antibody
+anti-epithelia pr 4d1
+anti-il22 l7p2e2*b3
+anti-boris 4a7
+anti-branched-galactan  lm26 monoclonal antibody
+anti-proteolipid protein plpc1
+anti-fzr1 ar38.2
+anti-extensin  jim12 monoclonal antibody
+anti-acetyl smc3 dp3.1
+anti-urothelium lbs20a
+anti-integrin b3 y2/51
+anti-annexini anex 6e4/3
+anti-o-linked n-acetylglucosamine o-glcnac 8c3.h2
+anti-cdk2 an21.2
+anti-lps hafnia alvei pcm 1216 ha1216c1 monoclonal antibody
+anti-cd71 bu54
+anti-pot1 m1-p1h5
+anti-phospho-cdc20 ser50 bm8.1
+anti-sumo-2/sumo-3 8a2 antibody
+anti-cd48  ox46 monoclonal antibody
+anti-hairy 3/30
+anti-integrin beta 3 gpiiia, cd61  ap-2
+anti-chikv 8a2c
+anti-pfalciparum histidine rich protein 2 299-2h 4a5  monoclonal antibody
+anti-1-4-beta-galactan  lm5 monoclonal antibody
+anti-cd31 pecam1 jc70
+anti-cd9 p1/33/2
+anti-protein argonaute-2 4f9-5c5 monoclonal antibody
+anti-ptprc c11
+anti-igd z72p1e9*a4
+anti-eag antibody from x63 fused cd19 b cell hybridoma d4
+anti-cd11a  integrin subunit alpha l  spvl11 monoclonal antibody
+anti-alanyl-trna synthetase m6-p2e5
+anti-lrat m34-p1f10
+anti-sars nucleocaspid 6h3
+anti-cd44 p2a1
+anti-p22phox cs6
+anti-keratin16 ll025
+anti-cmyc 9e10
+anti-hip1r 1e5 monoclonal antibody
+anti-hladr lhm 4
+anti-pecam 1.1  mcb 78.1
+anti-porcine thermal-stable blood protein tsbp 90 kda 22e10/a5 monoclonal antibody
+anti-ubiquitinated histone h2b lys123 1b3f12/a9
+anti-ptpy cdk1 cp3.2
+anti-c-met 13
+anti-myosin myh3  f1.652 monoclonal antibody
+anti-spred1 m23-p2g3
+anti-tcr cβ1 jovi.1
+anti-fn-edb 2ds.1 monoclonal antibody
+anti-rt1a class i monomorphic  ox18 monoclonal antibody
+anti-cd44 h-cam  ox49 monoclonal antibody
+anti-c-met 17
+anti-hip1r 1e1 monoclonal antibody
+anti-human insulin receptor ir ct-21 monoclonal antibody
+anti-influenza a np hb65
+anti-alkaline phosphatase aap1
+anti-dna m17-s-c2 monoclonal antibody
+anti-6his tag 8f9
+anti-plx az44
+anti-n-ethymaleimide nem ox133 monoclonal antibody
+anti-myeloid lineage  ox82 monoclonal antibody
+anti-s100a9 1h9
+anti-β-tubulin c-terminal domain igm tu-07
+anti cxcl8 11a4 monoclonal antibody
+anti-fat1 fat-1 3d7/1
+anti-serca2 atpase iid8
+anti-cros 5-4e
+anti-phospho pax3 ser209 monoclonal antibody
+anti-kappa chain  ox12 monoclonal antibody
+anti-cd11a  integrin subunit alpha l  spvl7 monoclonal antibody
+anti-sirp gamma blocking  ox119 monoclonal antibody
+anti-igm a70  p1b5*d8 monoclonal antibody
+anti-rsv f glycoprotein 11-5-g9
+anti-phd3 eg188e/d5
+anti- bovine/ovine/goat/human igg 42.1 monoclonal antibody
+anti-fviii mbc 103.3 monoclonal antibody
+anti-cd81 1s73 monoclonal antibody
+anti-dna m163-100 monoclonal antibody
+anti-fancc 8f3 monoclonal antibody
+anti-forssman  117c9 monoclonal antibody
+anti-siglec3 cd33 1c7/1
+anti-o-linked n-acetylglucosamine o-glcnac 2a8.f3
+anti-myelin basic protein region thr98 98/p12
+anti-5t4 b3f1
+anti-bovine thermal-stable blood protein tsbp 60 kda 3d6c7g9 monoclonal antibody
+anti-feruloylated-galactan  lm9 monoclonal antibody
+anti-cd6 domain 3 mouse ox129 monoclonal antibody
+anti-neurofilament m iggm neurofilament heavy polypeptide nf-10
+anti-cd21 bu81
+anti-af10 haf10 9a5/2
+anti-integrin beta 3a gpiiia, cd61  mcb 322.3 libs
+anti-lilrb1 vmp55
+anti-raet1e raet1e 79/6
+anti-cd81 2s155 monoclonal antibody
+anti-cd172a  ox41 monoclonal antibody
+anti-lewisy/bhapten ncrc37
+anti-calla ss2/36
+anti-bordotella avium 41-kda surface protein pf8 monoclonal antibody
+anti-vhl liz167c
+anti-pkd1 pks161f/b7
+anti-ag85b 4a6 monoclonal antibody
+anti lamin b bbmlbr 12.f8 monoclonal antibody
+anti-rad51b rad51b 1e11/6
+anti-human insulin receptor ir 18-146 monoclonal antibody
+anti-hladq1 tal 4.1
+anti-agp  jim15 monoclonal antibody
+anti-rsv subgroup b phosphoprotein 4-14
+anti-cd4 domains 3 & 4 ox68 monoclonal antibody
+anti-rad51c rad51c 2h11/6
+anti-estradiol immuno complex c6 recombinant antibody
+anti-siglec8 7c9
+anti-s100a9 2b10
+anti-human insulin receptor ir 83-12 monoclonal antibody
+anti-mmp1 4b1 monoclonal antibody
+anti-dna m25-12m monoclonal antibody
+anti-muc1 sm3
+anti-brdu bu20a
+anti-siglec-9 k8 monoclonal antibody
+anti-cd29 8e3
+anti-dyhydropyridine receptor beta subunit, skeletal muscle vd2-1b12 monoclonal antibody
+anti-ufd1 5e2
+anti-zebrafish deltac zdc2
+anti-cd8a v44p1h9*f11
+anti-gpib cd42 mbc 142.16 monoclonal antibody
+anti-caspase-7 mch3 1-1-11
+anti-calcium-sensing receptor hl1499 monoclonal antibody
+anti-akt1 v7
+anti-ceacam5 cd66e 5c8c4 monoclonal antibody
+anti-o-linked n-acetylglucosamine o-glcnac 1e9.e3
+anti-cdc27 af 3.1
+anti human igg r10z8e9
+anti-elovl3 v61 p2b3*d10
+anti-ricin b chain rbc11
+anti-icam3 icam 3.2
+anti-hsv pul36 vp1/2 cb4
+anti-homogalacturonan  lm19 monoclonal antibody
+anti-phospho-raf1 ser338 dpr/2/2a/3a
+anti-pdecgf pgf 44c
+anti-tnf-alpha 1/2 z74p2c5*a12
+anti-tnc-c 4c2.1 monoclonal antibody
+anti-pab1p 1g1 monoclonal antibody
+anti-zika virus d1-4g2-4-15
+anti-cd29 12g10
+anti-calsequestrin viiid12
+anti-lambda light chain n10/2
+anti-brca1 8b2
+anti-cd81 1s112 monoclonal antibody
+anti-vascular endothelium 10
+anti-cd45ra 4kb5
+anti-lpp3 046 monoclonal antibody
+anti-integrin b3 f11
+anti-apc7 bz79-17-6
+anti-ncam uj13a
+anti-cd79a jcb117
+anti-pylt pylt
+anti-insulin-like growth factor-2 mrna-binding protein 2 5e10-3e1 monoclonal antibody
+anti-urothelium lbs19
+anti-vwf t4 mbc 105.4 monoclonal antibody
+anti-xylogalacturonan  lm8 monoclonal antibody
+anti-boris 20b11
+anti-cd147 ox114 monoclonal antibody
+anti-keratin18 lc18n
+anti-cyp3a4 hl3 monoclonal antibody
+anti-hpv18e6 c1x1
+anti-tao1 tao1 1.2
+anti-tigit 13e7
+anti-cd49e  integrin alpha 5 sam1 monoclonal antibody
+anti-bcrabl 4c12
+anti-fast skeletal muscle troponin t f24
+htra3 monoclonal antibody clone 2c4
+anti-apc c-apc 28.9
+anti-mrp8 2c5/4
+anti-follicular dendritic cell antigen bu57
+anti-porcine rotavirus vp6, serogroup c 11h3 monoclonal antibody
+anti-cd81 2s107 monoclonal antibody
+anti-integrin b3 mhf4
+anti-pecam 1.2  mcb 78.2
+anti-fn-edb 5f1.1 monoclonal antibody
+anti-avw-4 avw-4 monoclonal antibody
+anti-estrogen receptor ß5 ppg5/25
+anti-ceacam5&6 by114
+anti-o-linked n-acetylglucosamine o-glcnac 5h11.h6
+anti-activated mmp1 5c10
+anti-stub1 chip-11.1 monoclonal antibody
+anti-forssman  33b12 monoclonal antibody
+anti-urothelium lbs10
+anti-myelin basic protein region 129-138 mbp1
+anti-p29ing4 4f4
+anti-mycobacterial65-kda hsp ne5
+anti-glcnacβ1-3galβ1-4glc1-4hep epitope neisseriasp. 4c8
+anti-s100a8 & s100a9 5.5
+anti-estradiol-17-beta s16 recombinant antibody
+anti-cd20 2h7
+anti-integrin b1 4b7
+anti-factor vii rff-vii/2
+anti-progesterone 11p14
+anti-dna m17-s5 monoclonal antibody
+anti-5t4 b1c3
+anti-prd16 e7-5
+anti-sv40t pab 430
+anti-lactase mlac4
+anti-porcine thermal-stable blood protein tsbp 12 kda 19c4e11 monoclonal antibody
+anti-jmjd4 jmjd4/32b/h12
+anti-cd44 bu75
+anti-myosin light chains a12
+anti-dna ligase 1 1a9
+anti-glycophorina jc159
+anti-orf26 orf26 monoclonal antibody
+anti-tal1 2tl170
+anti-pd-1 j110
+anti-slow skeletal muscle myosin heavy chain 9812
+anti-p21 ac8.3
+anti-xrcc2 xrcc2 7b7/3
+anti-cd45 x16
+anti-cd81 2s131 monoclonal antibody
+anti-a. aeolicus bpl/bioid2 ss qd1
+anti-cd5  ox19 monoclonal antibody
+anti-cd18 ib4
+anti-apc11 ax2.1
+anti-map2ab igg1 microtubule associated protein 2ab mt-04
+anti-fanca 5g9 monoclonal antibody
+anti-adiponectin 399r
+anti-asialoglycoprotein receptor host male epithelial cells  6c2
+anti-cd44  nki-p1 monoclonal antibody
+anti-mhc-class i yth 862.2
+anti-mouse anti-tap63 tap63-3.1 monoclonal antibody
+anti-sv40lt lp7n
+anti-proinsulin 4f12.f2 monoclonal antibody
+anti-vflip 6/14
+anti-igd z56p1h5*g6
+anti-aspergillus fumigatus,16c4
+anti-cd70 tan 1-7
+anti-neutrophil elastase np57
+anti-cd26 dppiv lc-89 monoclonal antibody
+anti nucleocapsid protein of mers cov 7h6 monoclonal antibody
+anti-mhc class ii hla-dq  spvl3 monoclonal antibody
+anti-human blood group bantigen q6 antibody
+anti-human neuropilin-1 b1b2 clone 1a4; mab1 monoclonal antibody
+anti-keratin 19 lp2k
+htra3 monoclonal antibody clone 9c9
+anti-histone h3 bt164 monoclonal antibody
+anti-1-5-a-l-arabinan  lm6-m monoclonal antibody
+anti-sars nucleocaspid 1c7c7
+anti-muscleblind-like protein 1 3a4-1e9 monoclonal antibody
+anti-sea louse antigen 2 a8  p1g1*e2 monoclonal antibody
+anti-chl1 bb13.13
+anti-human neuropilin-1 b1b2 clone 3e7; mab2 monoclonal antibody
+anti- cd51  integrin subunit alpha v nkim9 monoclonal antibody
+anti-dep1b vd3-44-5
+anti-sucrase-isomaltase mglu3
+anti-cd45 c363.16a monoclonal antibody
+anti-ebv latent membrane protein 1 lmpo24
+anti-troponin 1 20 monoclonal antibody
+anti-cxcl16 4.4
+anti-erbb2 icr55
+anti-cisplatin modified dna cp9/19
+anti-mis12 qa21-74-4-3
+anti-lactase mlac10
+anti-msapn1  2b3.h4
+anti-cd11a  integrin subunit alpha l  spvl12 monoclonal antibody
+anti-nucleophosmin na24
+anti-bcl2 bcl-2/124
+anti-dmc1 2h12/4
+anti-cd21 bu79
+anti-hsv vp21/vp22a lp13
+anti-spata25 z37p3h11*b2
+anti-gst 5c12 chip grade
+anti-cd8 alpha kt15 monoclonal antibody
+anti-cytochrome p450 26a1 f27p6a1
+anti-zebrafish deltad zdd2
+anti-fancb m38p3e10
+anti-blood group a sugar determinant 9a
+anti-tcp1 22b
+anti-factor b-i h human ox24 monoclonal antibody
+anti-igm uch-b1
+anti-dna m165-41 monoclonal antibody
+anti-plasma cell liv3g11
+anti-o-linked n-acetylglucosamine o-glcnac 8g11.d6
+anti-synaptophysin sp16 monoclonal antibody
+anti-integrin a2b m148
+anti-1a antigen rt1bu  ox3 monoclonal antibody
+anti-hpv16e2 tvg 261
+anti-mycobacterial30-kda a2h11
+anti-hgf/sf egh2 4c12.1
+anti-mad2 as55-a12
+anti-endopdi 2e7/7
+anti-rad51d rad51d 5a8/4
+anti-cd49f  integrin alpha 6 goh3 monoclonal antibody
+anti-dsn1 rd36-1
+anti-p22phox cs9
+anti-cd7 v55p2f2*b12
+anti-human igf-1 receptor igf-1r 26-3 monoclonal antibody
+anti-cd56 my-31 monoclonal antibody
+anti-chikv 6a11
+anti-keratin8 lp3k
+anti-cd134  ox40 monoclonal antibody
+anti-haemoglobin scavenger receptor ghi/61
+anti-pctaire g6.1
+anti-p53 pab 1802
+anti-phospho cyclinb1 ilv-phos4.1
+anti-gfp 7a1
+anti-urothelium lbs21
+anti-ap2g ap2g 6e4/4
+anti-cd27  lg3a10 monoclonal antibody
+anti-pcna pc10
+anti-hemilin1 hemil1 monoclonal antibody
+anti-mcm5 a4.8d6.h10.d9
+anti-galnac-t1 uh3 monoclonal antibody
+anti-atf1 atf1 2a9/8
+htra3 monoclonal antibody clone 6g6
+anti-hud 15a9 chip grade
+anti-cd45r 351c5
+anti-integrin β-1d  cd29 beta1g2 monoclonal antibody
+anti-cd81 1s135 monoclonal antibody
+anti-cul1 as97.1
+anti-gp91phox cl5
+anti-xenopus nk cells 1f8 monoclonal antibody
+anti-galβ1-4glcnac epitope 6b7
+anti-factor viii:c light chain rff-viii:c/5
+anti-hif2a hif2a 237
+anti-alpha tubulin yl1/2 monoclonal antibody
+anti-bovine casin bcasc5 monoclonal antibody
+anti-diaph2 v78p3c10*d3
+anti-l1cam rt9-26
+anti-mhc class i  spvl8 monoclonal antibody
+anti-keratin19 ba17
+anti-mcm2 2-40
+anti-trf2 mta18 9f10/1
+anti-xrcc2 xrcc2 1g4/1
+anti-pat4 pat-4/9/h10
+anti-pds5a af5-21-7
+anti-eb1 eb1-cl 1a11/4
+anti-pkd prdx v71
+anti-lewisx by87a
+anti-spata2 z1p1f10*f12
+anti-alpha tubulin b-5-1-2
+anti-ksr mint/1/14
+anti-human apoe3 apo4.1 monoclonal antibody
+anti-arp8 13f10.a4.g6
+anti-ig/bcr l1 monoclonal antibody
+anti-hla-dob dob 10e6/5
+anti-ribosomal rna y10b monoclonal antibody
+anti-acetyl smc3 en9.1
+anti-hud 16c12
+anti-o-linked n-acetylglucosamine o-glcnac 16b9.f1
+anti-hur  19f12
+anti-human apoe3 apo1.1 monoclonal antibody
+anti-ceacam19 z5p2d9*a9
+anti-1a antigen rt1b  ox6 monoclonal antibody
+anti-p22phox 44.1
+anti-h5 2c6-1e11 monoclonal antibody
+anti-cd72 bu41
+anti-tff1 ps2ge1
+anti-cd4  w3/25 monoclonal antibody
+anti-zebrafish gut secretory cell epitopes fis 6g5/1
+anti-stip1 hop-1.1 monoclonal antibody
+anti-phospho hdac1 ser406 bt15-59-5
+anti-af10 haf10 10d3/8
+anti-ksv cyclind 94b
+anti-melphalan-modified dna amp4/42
+anti-transmembrane protein 3b5/d7
+anti-hdac6-d1 236 mouse monoclonal antibody d1 domain-specific
+anti-fn-edb 2b2.1 monoclonal antibody
+anti-nudcd1 ar55-1-4
+anti-heterogeneous nuclear ribonucleoprotein m 1-4 2a6 monoclonal antibody
+anti-von willebrand factor f8/44/20
+anti-dna m202-135 monoclonal antibody
+anti-cdc6 cdc6 9h8/5
+anti-rgpb  arginine-gingipain b 18e6 monoclonal antibody
+anti-keratin6 lhk6
+anti-cd200rlc mouse ox132 monoclonal antibody
+anti-interferon st225
+anti-asic2 asic2 monoclonal antibody
+anti-ceacam21 1e4 monoclonal antibody
+anti-sv40st pab 280
+anti-cd6  ox52 monoclonal antibody
+anti-capsular polysaccharide f. tularensis 11b7
+anti-rad51b rad51b 1h3/13
+anti-hcap-18 n9
+anti-myb 10a3
+anti-clec9a 7h11
+anti-keratin 14  spk14 monoclonal antibody
+anti-cytochrome p450 2r1 m26-p6h1
+anti-asap1 7b12
+anti-cig2 cig2 3a11/5
+anti-v-myb/a-myb 5e11
+anti-il-18 yigf74.1g7.c10
+anti-o-linked n-acetylglucosamine o-glcnac 6g3.a5
+anti-lewisx 29
+anti-syntaxin sp8 monoclonal antibody
+anti-rsv m21 protein 5h5
+anti-erbb3 sgp1
+anti-mast cell mcg35
+anti-slow skeletal and cardiac muscle troponin t cdc4
+anti-hdac6-d2 3d2 mouse monoclonal antibody d2 domain-specific
+anti-ie of b,k,r,s,v y17 monoclonal antibody
+anti-nnav 1.5 4g8:1g7
+anti-rsv g glycoprotein 11-2-d2
+anti-hip1 4b10 monoclonal antibody
+pc6 monoclonal antibody clone 8f5
+anti-foxp1 jc12
+anti-hip1 1a1 monoclonal antibody
+anti-cyclina e43.2
+anti-ruvc ruvc 5g9/3
+anti-dc-sign 9e9a8
+anti-phd2 366g/76/3
+anti-cyclina2 46b11
+anti-goat ig gt175
+anti-rap1 rap1 5g7/1
+anti-egfr egfr1
+anti-aβ abeta 6c3 monoclonal antibody
+anti-tom1l1 3f12
+anti-5t4 b5c9
+anti-myosin myh2  a4.74 monoclonal antibody
+anti-fancm m40-p2c6
+anti-pecam 1 cytoplasmic domain  mcb 235.1
+anti-p53 pab 1104
+anti-tnf-α 9b10
+anti-hla class ii  r24.3 monoclonal antibody
+anti-e2f6 tfe61
+anti-hpv16e7 tvg 701y
+anti-dna m202-33 monoclonal antibody
+anti-igm z68 p2b8*d4 monoclonal antibody
+anti-atrx 39f
+anti-vegf vg76e
+anti-cd27  lg8a6 monoclonal antibody
+anti-cd6 domain 3 human ox124 monoclonal antibody
+anti-dna m74-c1 monoclonal antibody
+anti-f. tularensis lvs lpna/tul4 14 antibody
+anti-cytochrome p450 7b1 m17-p3f2
+anti-hsf1 hsf1-1.1 monoclonal antibody
+anti-dna m10-c1 monoclonal antibody
+anti-thy 1 y19 monoclonal antibody
+anti-cd72 bu40
+anti-α-livetin 3h4d7 monoclonal antibody
+anti-cd2 lfa-2  ox54 monoclonal antibody
+anti-ii6c4 iih6 c4
+anti-slow skeletal muscle myosin heavy chain 96j
+anti-cd81 1s204 monoclonal antibody
+anti-cd11b/cr3  integrin subunit alpha m bear1 monoclonal antibody
+anti-keratin7 lp1k
+anti-beta tubulin 2-28-33
+anti-siglec1 hsn 7d2
+anti-gp100 t-cell hybridoma busa14
+anti-sδ3 7g12
+anti-mhc ii bu48
+anti-orf45 orf45 monoclonal antibody
+anti-ceacam6 cd66c 1h7-4b monoclonal antibody
+anti-tao1 tao1 2.1
+anti-integrin a3 ia3
+anti-lewis a mbbm4
+anti-siglec2 4kb128
+anti- thermal-stable blood protein tsbp 12 kda 1h9b5d9 monoclonal antibody
+anti-aminopeptidase n mami1 - 2e710.1
+anti-3h9 autoantibody
+anti-cdk1 17 a17
+anti-neurofilament m igg1 neurofilament medium polypeptide nf-08
+anti-spata43 z79  p1c3*e1 monoclonal antibody
+anti-dna m17-p3 monoclonal antibody
+anti-integrin β-1d  cd29 2b1 monoclonal antibody
+anti-daf 67
+anti-plap hd 8b6
+anti-cd11b  ox42 monoclonal antibody
+anti-hsv pul37 cb8
+anti-cd25 il-2r alpha  ox39 monoclonal antibody
+anti-avw-1 von willebrand factor a8-1 monoclonal antibody
+anti-fast skeletal muscle myosin heavy chains lm5
+anti-mmp9 v6p3f11*a4
+anti-cd81 2s48 monoclonal antibody
+anti-gp91phox  nl7
+anti-pfalciparum aldolase pv 4.2e12 monoclonal antibody
+anti-phospho mdm2 ser186 2g2 2.2
+anti-brca1 21a2
+anti-bcl10 151
+anti-lprg 3b3 monoclonal antibody
+anti-pitpb 1c1
+anti-v-myb/c-myb 4e3
+anti-mhc ii bu24
+anti-atm atm 11g12
+anti-cd81 1s90 monoclonal antibody
+anti-hsvul42 13d11
+anti-1,4-dihydropyridine receptor iif7 monoclonal antibody
+anti-fibrinogen-like protein 1 177 m03 monoclonal antibody
+anti-cd22 4kb71
+anti-stub1 chip-3.1 monoclonal antibody
+anti-siglec2 tpd44/d11
+anti-cd45  ox29 monoclonal antibody
+anti-actin2 mab13a
+anti–bira 6c4c7
+anti-nkrp1d 4e9
+anti-listeria monocytogenes antigen 2 2:4 e10
+anti-lrp6 1c10
+anti-cr2 bu33
+anti-mcm5 a2.7a3.f12.a7
+anti-ferret immunoglobulin igi gk1-6-h5
+anti-cdk1 y100.4
+anti-1-5-a-l-arabinan   lm6 monoclonal antibody
+anti-galβ1-4glcnac epitope 3f11
