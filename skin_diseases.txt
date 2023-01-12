@@ -1,0 +1,99 @@
+acne
+actinic keratosis
+angioma
+athlete's foot
+aquagenic pruritus
+argyria
+atopic dermatitis
+baldness
+basal cell carcinoma
+bed sore
+behcet disease
+blepharitis
+boil
+bowen's disease
+bullous pemphigoid
+canker sore
+carbuncles
+cellulitis
+chloracne
+chronic dermatitis of the hands and feet
+cold sores
+contact dermatitis (includes poison ivy, oak, sumac)
+creeping eruption
+dandruff
+dermatitis
+dermatitis herpetiformis
+dermatofibroma
+diaper rash
+dyshidrosis
+eczema
+epidermolysis bullosa
+erysipelas
+erythroderma
+ferguson's disease
+friction blister
+genital wart
+gestational pemphigoid
+grover's disease
+hidradenitis suppurativa
+hives
+hyperhidrosis
+ichthyosis
+impetigo
+jock itch
+kaposi's sarcoma
+keloid
+keratoacanthoma
+keratosis pilaris
+lewandowsky-lutz dysplasia
+lice infection
+lichen planus
+lichen simplex chronicus
+lipoma
+lymphadenitis
+malignant melanoma
+melasma
+miliaria
+molluscum contagiosum
+nummular dermatitis
+paget's disease of the nipple
+pediculosis
+pemphigus
+perioral dermatitis
+photoallergy
+photosensitivity
+pityriasis rosea
+pityriasis rubra pilaris
+porphyria
+psoriasis
+raynaud's disease
+ringworm
+rosacea
+scabies
+scleroderma
+scrofula
+sebaceous cyst
+seborrheic keratosis
+seborrhoeic dermatitis
+shingles
+skin cancer
+skin tags
+spider veins
+squamous cell carcinoma
+stasis dermatitis
+sunburn
+tick bite
+tinea barbae
+tinea capitis
+tinea corporis
+tinea cruris
+tinea pedis
+tinea unguium
+tinea versicolor
+tinea
+tungiasis
+urticaria (hives)
+vitiligo
+warts
+welt (wheal)

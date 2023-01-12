@@ -1,0 +1,100 @@
+carc/rarc
+claim adjustment reason code/remittance advice remark code
+co
+contractual obligation
+cr
+corrections and reversal
+oa
+other adjustment
+pi
+payer initiated reductions
+pr
+patient responsibility
+cob
+coordination of benefits
+cpt
+current procedural technology
+dci
+duplicate coverage inquiry
+dos
+date of service
+edi
+electronic data interchange
+eft
+electronic funds transfer
+emr
+electronic medical records
+eob
+explanation of benefits
+era
+electronic remittance advice
+fdcpa
+fair debt collection practices act
+ffs
+fee-for-service
+fi
+fiscal intermediary
+hcpcs
+healthcare common procedure coding system
+hipaa
+health insurance portability & accountability act
+hmo
+health maintenance organization
+icd-10
+international classification of diseases
+inn
+in-network
+macra
+medicare access and chip reauthorization act
+n/c
+non-covered charge
+nec
+not elsewhere classifiable
+ndc
+national drug code
+npi
+national provider identifier
+oon
+out of network
+pa
+prior authorization
+pcp
+primary care physician
+phi
+protected health information
+rbrvs
+resource based relative value scale
+rvu
+relative value unit
+spc
+statistical process control
+sqc
+statistical quality control
+tin
+tax identification number
+ucr
+usual customary & reasonable
+wc
+workers’ compensation
+aco
+accountable care organization
+cdhp
+consumer-driven health plan
+cms
+centers for medicare and medicaid services
+cobra
+consolidated omnibus budget reconciliation act (of 1985)
+epo
+exclusive provider organization
+hmo
+health maintenance organization
+ipa
+independent practice association
+mco
+managed care organization
+pos
+point of service
+ppo
+preferred provider organization
+top
+triple option plan

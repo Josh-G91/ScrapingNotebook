@@ -1,0 +1,50 @@
+claim adjustment reason code/remittance advice remark code
+contractual obligation
+corrections and reversal
+other adjustment
+payer initiated reductions
+patient responsibility
+coordination of benefits
+current procedural technology
+duplicate coverage inquiry
+date of service
+electronic data interchange
+electronic funds transfer
+electronic medical records
+explanation of benefits
+electronic remittance advice
+fair debt collection practices act
+fee-for-service
+fiscal intermediary
+healthcare common procedure coding system
+health insurance portability & accountability act
+health maintenance organization
+international classification of diseases
+in-network
+medicare access and chip reauthorization act
+non-covered charge
+not elsewhere classifiable
+national drug code
+national provider identifier
+out of network
+prior authorization
+primary care physician
+protected health information
+resource based relative value scale
+relative value unit
+statistical process control
+statistical quality control
+tax identification number
+usual customary & reasonable
+workers’ compensation
+accountable care organization
+consumer-driven health plan
+centers for medicare and medicaid services
+consolidated omnibus budget reconciliation act (of 1985)
+exclusive provider organization
+health maintenance organization
+independent practice association
+managed care organization
+point of service
+preferred provider organization
+triple option plan

@@ -2710,3 +2710,5 @@ instruction w-12
 form w-13
 form w-14
 instruction w-14
+form 1099-da
+1099-hc
